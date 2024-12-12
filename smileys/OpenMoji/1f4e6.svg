@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 53.380402 61.328186"
+   version="1.1"
+   sodipodi:docname="1f4e6.svg"
+   width="53.380402"
+   height="61.328186"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-8.882,-5.3360155)">
+    <path
+       fill="#f4aa41"
+       d="m 34.3223,64.1641 c -0.1755,0 -0.3479,-0.0462 -0.5,-0.1338 L 11.1329,50.6982 c -0.3095,-0.1787 -0.5001,-0.5089 -0.5,-0.8662 l -0.251,-27.414 c 0,-0.3573 0.1905,-0.6875 0.5,-0.8662 L 35.0723,7.22 c 0.3096,-0.1777 0.6904,-0.1777 1,0 l 22.6905,13.0818 c 0.4784,0.2759 0.6426,0.8874 0.3666,1.3659 -0.0875,0.1517 -0.2133,0.2777 -0.3647,0.3655 L 35.5724,36.0333 35.3223,63.166 c -0.0015,0.5514 -0.4486,0.9977 -1,0.9981 z"
+       id="path1" />
+    <polygon
+       fill="#f4aa41"
+       points="60.413,21.988 35.5724,36.0333 36,64.5715 60.7589,50.4641 "
+       id="polygon1" />
+    <path
+       fill="#d0cfce"
+       d="m 44.4415,37.9783 c -0.7769,-0.442 -1.2545,-1.2692 -1.249,-2.163 V 31.6434 L 20.3119,16.1139 c 0.692,-0.4567 6.2179,-3.6331 6.5605,-3.7231 l 26.1492,13.0017 c 0.3095,0.1787 0.5001,0.5089 0.5,0.8662 v 6.0244 c -0.0018,1.1714 -0.6264,2.2536 -1.64,2.8409 l -4.9444,2.8544 c -0.771,0.4505 -1.7251,0.4505 -2.4961,0 h 4e-4 z"
+       id="path2" />
+    <path
+       fill="#d0cfce"
+       d="m 44.8377,59.475 v -3.336 c 0.0017,-1.0607 0.5674,-2.0405 1.4853,-2.5722 L 52.3963,50.06 c 0.8836,-0.5099 2.0133,-0.207 2.5232,0.6766 0.162,0.2808 0.2473,0.5992 0.2473,0.9234 0,0 -0.0232,1.6053 -0.3301,1.8473 -2.0407,1.6093 -9.9991,6.2783 -9.999,5.9677 z"
+       id="path3" />
+    <path
+       fill="#3f3f3f"
+       d="m 44.4274,45.9464 v 0.8683 c 0,0.8266 0.67,1.4967 1.4967,1.4967 0.2628,0 0.5209,-0.0692 0.7485,-0.2006 l 6.8048,-3.76 c 0.7054,-0.4073 1.14,-1.1599 1.14,-1.9745 v -1.1184 c 0,-0.7976 -0.6466,-1.4442 -1.4442,-1.4442 -0.2535,0 -0.5025,0.0667 -0.7221,0.1935 l -6.7455,3.7252 c -0.7909,0.4567 -1.2781,1.3006 -1.2781,2.2139 z"
+       id="path4" />
+    <polygon
+       fill="#ffffff"
+       points="22.785,41.706 31.083,46.359 31.083,38.917 22.785,34.264 "
+       id="polygon4" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-8.882,-5.3360155)">
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="9.882,21.168 9.882,50.832 35.572,65.664 61.262,50.832 61.262,21.168 35.572,6.336 "
+       id="polygon5" />
+    <line
+       x1="35.572399"
+       x2="35.572399"
+       y1="36.033298"
+       y2="65.6642"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line5" />
+    <line
+       x1="35.6301"
+       x2="9.9400997"
+       y1="36.033298"
+       y2="21.2012"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="52.516899"
+       x2="61.262402"
+       y1="26.250401"
+       y2="21.2012"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line7" />
+    <line
+       x1="35.572399"
+       x2="44.187901"
+       y1="36.033298"
+       y2="31.059099"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 26.884,11.4565 25.6375,14.8018 v 6.0248 c 0,0.8146 -0.4346,1.5672 -1.14,1.9745 l -4.9439,2.8543 C 45.7218,37.5252 44.8064,37.28 44.393,36.5642 44.2616,36.3366 44.1924,36.0785 44.1924,35.8157 V 31.0671 L 18.6235,16.2488"
+       id="path8" />
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="22.785,41.706 31.083,46.359 31.083,38.917 22.785,34.264 "
+       id="polygon8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 54.1667,54.6663 V 51.66 c 0,-0.4679 -0.3793,-0.8472 -0.8472,-0.8472 -0.1487,0 -0.2948,0.0391 -0.4236,0.1135 l -6.073,3.5062 c -0.6098,0.3519 -0.9854,1.0025 -0.9853,1.7065 v 3.3361"
+       id="path9" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 44.4274,45.9464 v 0.8683 c 0,0.8266 0.67,1.4967 1.4967,1.4967 0.2628,0 0.5209,-0.0692 0.7485,-0.2006 l 6.8048,-3.76 c 0.7054,-0.4073 1.14,-1.1599 1.14,-1.9745 v -1.1184 c 0,-0.7976 -0.6466,-1.4442 -1.4442,-1.4442 -0.2535,0 -0.5025,0.0667 -0.7221,0.1935 l -6.7455,3.7252 c -0.7909,0.4567 -1.2781,1.3006 -1.2781,2.2139 z"
+       id="path10" />
+  </g>
+</svg>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 61.102798 32.458302"
+   version="1.1"
+   sodipodi:docname="1f3ca-1f3fb-200d-2640-fe0f.svg"
+   width="61.102798"
+   height="32.458302"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="skin"
+     transform="translate(-3.8219,-17.9556)">
+    <circle
+       cx="18.5497"
+       cy="28.583"
+       r="2.8598001"
+       fill="#fadcbc"
+       id="circle1" />
+    <path
+       fill="#fadcbc"
+       d="m 41.7132,32.5877 c 0,0 -6.1962,-4.29 -7.6261,-5.72 a 4.8777,4.8777 0 0 1 -0.7627,-1.7159 c -0.2869,-0.7626 1.143,-3.5271 2.5729,-3.4308 a 16.133,16.133 0 0 1 4.4814,1.7149 c 1.3345,0.572 2.0971,-0.5719 2.4785,-1.2383 L 35.4207,18.67 30.56,23.055 l -3.4318,3.4327 -2.7645,6.8623 2.9542,-0.6663 7.3411,-1.24 z"
+       id="path1" />
+  </g>
+  <g
+     id="color"
+     transform="translate(-3.8219,-17.9556)">
+    <path
+       fill="#92d3f5"
+       d="m 64.8777,31.3485 c -7.6262,0 -10.486,2.86 -15.2523,2.86 -4.7663,0 -9.5327,-2.86 -15.2524,-2.86 -5.7197,0 -9.5327,2.86 -15.2523,2.86 -5.7196,0 -12.3925,-2.86 -15.2523,-2.86 v 11.1532 c 0,1.3346 1.3345,7.9122 6.6729,7.9122 h 48.7121 c 5.529,0 5.6243,-4.5757 5.6243,-9.0561 z"
+       id="path2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-3.8219,-17.9556)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 4.8219,31.3485 c 2.86,0 8.58,2.86 14.2991,2.86 5.7191,0 9.5327,-2.86 15.2523,-2.86 5.7196,0 10.486,2.86 15.2524,2.86 4.7664,0 6.6729,-2.86 14.299,-2.86"
+       id="path3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 43.906,38.9746 a 19.9674,19.9674 0 0 0 5.72,0.9533 c 2.5738,0 4.385,-0.8579 6.6729,-1.62"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 12.2574,38.8793 a 26.505,26.505 0 0 0 6.8636,1.0486 c 5.72,0 9.5327,-2.86 15.2523,-2.86"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.8406,45.6475 c 3.0505,-0.8579 5.91,-2.0018 9.5327,-2.0018 4.1944,0 7.9122,1.5252 11.4393,2.3831"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.84,33.255 c 0.9533,-2.86 0.9533,-5.72 3.8131,-8.5794 1.9065,-1.9066 4.7664,-5.72 6.6729,-5.72 1.9065,0 6.6729,2.86 6.6729,2.86"
+       id="path7" />
+    <circle
+       cx="18.5497"
+       cy="28.583"
+       r="3"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle7" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 41.0459,32.3017 c 0,0 -4.957,-3.7177 -6.6729,-4.7663 -1.8112,-1.1439 -1.9065,-1.9066 -1.9065,-1.9066"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 20.0352,24.6343 c 0,0 0.12,-0.6472 0.5689,-0.7662 0.5275,-0.1407 1.7532,0.382 2.5,0.3039 a 3.3626,3.3626 0 0 0 1.9854,-0.88"
+       id="path9" />
+  </g>
+</svg>

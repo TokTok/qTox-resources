@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="1f635-200d-1f4ab.svg"
+   width="48"
+   height="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-12,-11.958302)">
+    <path
+       fill="#fcea2b"
+       d="m 36,12.9583 a 23,23 0 1 0 23,23 v 0 a 23.026,23.026 0 0 0 -23,-23 z"
+       id="path1" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-12,-11.958302)">
+    <circle
+       cx="36"
+       cy="35.958302"
+       r="23"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle1" />
+    <path
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-width="2.5104"
+       d="m 35.7778,43.6811 a 4.1686,4.1686 0 1 0 5e-4,0 z"
+       id="path2" />
+    <g
+       id="g6">
+      <g
+         id="g4">
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           d="m 41.27,30.9367 a 5.4893,5.4893 0 1 1 10.9786,0"
+           id="path3" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           d="m 44.93,30.9367 a 1.83,1.83 0 0 1 3.66,0"
+           id="path4" />
+      </g>
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         d="m 41.27,30.9367 a 7.3149,7.3149 0 0 0 7.3107,7.3191 h 0.0084"
+         id="path5" />
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         d="m 44.93,30.9367 a 3.6600001,3.6600001 0 0 0 7.319,0.121 q 10e-4,-0.06 0,-0.121"
+         id="path6" />
+    </g>
+    <g
+       id="g10">
+      <g
+         id="g8">
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           d="m 19.3155,30.9367 a 5.4893,5.4893 0 0 1 10.9786,0"
+           id="path7" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           d="m 22.975,30.9367 a 1.83,1.83 0 0 1 3.66,0"
+           id="path8" />
+      </g>
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         d="m 19.3155,30.9367 a 7.3149,7.3149 0 0 0 7.3107,7.3191 h 0.0084"
+         id="path9" />
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         d="m 22.975,30.9367 a 3.6600001,3.6600001 0 1 0 7.3191,0.1148 q 9e-4,-0.0573 0,-0.1148"
+         id="path10" />
+    </g>
+  </g>
+</svg>

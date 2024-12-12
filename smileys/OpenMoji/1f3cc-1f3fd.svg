@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 39.196014 60.9062"
+   version="1.1"
+   sodipodi:docname="1f3cc-1f3fd.svg"
+   width="39.196014"
+   height="60.9062"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-20,-7.0937996)">
+    <path
+       fill="#d0cfce"
+       stroke="none"
+       d="M 53.9375,15.7813 57,16 l 1,3 c 1,2 -2.9687,3.1875 -3.9687,0.1875"
+       id="path1" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-20,-7.0937996)" />
+  <g
+     id="skin"
+     transform="translate(-20,-7.0937996)">
+    <circle
+       cx="38.9688"
+       cy="11.0938"
+       r="3"
+       fill="#c19a65"
+       stroke="#c19a65"
+       id="circle1" />
+    <path
+       fill="#c19a65"
+       stroke="#c19a65"
+       d="m 33.1563,20 c -4.0625,0.4688 -5.8233,0.2085 -6.3643,-0.625 -0.5137,-0.792 -0.209,-4.4585 -0.375,-8.75 l -2.25,-1.1665 -0.042,10.875 1.417,2 5.25,0.7915 1.333,-0.5835 z"
+       id="path2" />
+    <path
+       fill="#c19a65"
+       stroke="#c19a65"
+       d="m 28,11 2,5 10,3 1,3 -1,11 1,4 1,14 4,16 H 43 L 37,51 35,40 H 34 L 33,50 31,67 H 28 V 49 l 1,-13 2,-9 2.25,-6.9375 c -0.8437,-0.2812 -3.4687,-0.9062 -4.5937,-2.1562 -1.125,-1.25 -3.3331,-5.8335 -3.3643,-7.3648"
+       id="path3" />
+  </g>
+  <g
+     id="skin-shadow"
+     transform="translate(-20,-7.0937996)" />
+  <g
+     id="line"
+     transform="translate(-20,-7.0937996)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 33,21 -1.3672,4.1025 c -0.3476,1.0435 -0.8281,2.7759 -1.0664,3.8496 l -1.1328,5.0958 c -0.2383,1.0732 -0.502,2.8496 -0.5869,3.9462 l -0.6934,9.0118 C 28.0684,48.1025 28,49.9004 28,51 v 14 c 0,1.0996 0.6758,2 1.5,2 0.8242,0 1.6045,-0.8936 1.7334,-1.9863 l 1.5322,-13.0274 c 0.1289,-1.0927 0.3233,-2.8818 0.4336,-3.9765 l 0.6016,-6.0196 C 33.9102,40.8955 34.2246,40 34.5,40 c 0.2754,0 0.6611,0.8857 0.8574,1.9678 l 1.2852,7.0644 c 0.1963,1.0821 0.6738,2.8106 1.0595,3.8408 l 4.5958,12.254 C 42.6836,66.1572 43.6748,67 44.5,67 c 0.8252,0 1.2813,-0.873 1.0146,-1.9404 L 42.4854,52.9404 C 42.2188,51.873 41.9355,50.1025 41.8574,49.0049 L 41.1426,38.9951 C 41.0645,37.8975 40.7813,36.127 40.5146,35.0596 L 40.4854,34.9404 C 40.2188,33.873 40.0811,32.1035 40.1807,31.0078 l 0.6386,-7.0161 C 40.9189,22.8965 40.7754,21.3252 40.5,20.5 40.2246,19.6748 39.1377,18.7412 38.084,18.4253 l -6.168,-1.8506 c -1.0547,-0.3159 -2.25,-1.4101 -2.6582,-2.4316 L 28,11"
+       id="path4" />
+    <circle
+       cx="38.9688"
+       cy="11.0938"
+       r="3"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 32,23 26.9766,22.3721 C 25.3398,22.1675 24,20.6499 24,19 v -9"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 45.7666,13.8164 57,16 l 1,3 c 1,2 -2,3 -3,0"
+       id="path6" />
+    <line
+       x1="21"
+       x2="31.9736"
+       y1="9"
+       y2="11.1343"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+  </g>
+</svg>

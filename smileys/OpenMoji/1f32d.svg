@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 49.988804 49.98745"
+   version="1.1"
+   sodipodi:docname="1f32d.svg"
+   width="49.988804"
+   height="49.98745"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-11.005598,-11.006276)">
+    <path
+       fill="#f4aa41"
+       stroke="none"
+       d="m 48.6367,13.4648 c -1.9512,-1.9531 -5.1172,-1.9531 -7.0703,0 L 13.4648,41.5645 c -1.9531,1.9531 -1.9531,5.1191 -0.0019,7.0712 l 9.9004,9.8995 c 1.9531,1.9531 5.1191,1.9531 7.0703,0 L 58.5371,30.4355 c 1.9512,-1.9531 1.9512,-5.1191 0,-7.0712 z"
+       id="path1" />
+    <path
+       fill="#ea5a47"
+       stroke="none"
+       d="m 20.5352,58.5352 c -1.9532,1.9531 -5.1192,1.9531 -7.0723,0 -1.9512,-1.9522 -1.9512,-5.1182 0,-7.0704 l 38.0019,-38 c 1.9532,-1.9531 5.1192,-1.9531 7.0723,0 1.9512,1.9522 1.9512,5.1182 0,7.0704 z"
+       id="path2" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-11.005598,-11.006276)" />
+  <g
+     id="skin"
+     transform="translate(-11.005598,-11.006276)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-11.005598,-11.006276)" />
+  <g
+     id="line"
+     transform="translate(-11.005598,-11.006276)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 27,45.001 c 0,1.6562 -1.3437,3.001 -3.001,3.001 -1.6572,0 -2.999,1.3437 -3,3"
+       id="path3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 39.002,33 c 0,1.6563 -1.3438,3 -3.002,3 -1.6562,0 -2.999,1.3438 -3,3"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 33,39 c 0,1.6563 -1.3418,3.001 -3,3 -1.6572,0 -3,1.3447 -3,3.001"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 45.002,26.998 c 0,1.6573 -1.3418,3.002 -3,3.001 -1.6582,0 -3,1.3448 -3,3.001"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 51.002,20.998 c 0,1.6563 -1.3418,3 -3,3 -1.6563,0 -3,1.3448 -3,3"
+       id="path7" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 20.5352,58.5352 c -1.9532,1.9531 -5.1192,1.9531 -7.0723,0 -1.9512,-1.9522 -1.9512,-5.1182 0,-7.0704 l 38.0019,-38 c 1.9532,-1.9531 5.1192,-1.9531 7.0723,0 1.9512,1.9522 1.9512,5.1182 0,7.0704 z"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 50.0508,14.8789 -1.4141,-1.4141 c -1.9512,-1.9531 -5.1172,-1.9531 -7.0703,0 L 13.4648,41.5645 c -1.9531,1.9531 -1.9531,5.1191 -0.0019,7.0712 l 1.416,1.4151"
+       id="path9" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 21.9492,57.1211 1.4141,1.4141 c 1.9531,1.9531 5.1191,1.9531 7.0703,0 L 58.5371,30.4355 c 1.9512,-1.9531 1.9512,-5.1191 0,-7.0712 L 57.123,21.9492"
+       id="path10" />
+  </g>
+</svg>

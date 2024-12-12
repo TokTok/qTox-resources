@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 45.772099 39.631699"
+   version="1.1"
+   sodipodi:docname="1f3b2.svg"
+   width="45.772099"
+   height="39.631699"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-12.7322,-15.420003)">
+    <polygon
+       fill="#d0cfce"
+       points="13.9289,22.2732 35.6729,17.4173 58.0936,22.6076 35.6729,27.8442 "
+       id="polygon1" />
+    <polygon
+       fill="#9b9b9a"
+       points="35.6729,27.0042 58.1657,21.846 58.2211,48.3473 36.0428,54.1045 "
+       id="polygon2" />
+    <polygon
+       fill="#d0cfce"
+       points="35.6729,27.8442 22.6497,24.6986 13.9832,22.2957 13.9856,47.957 35.7027,54.1045 "
+       id="polygon3" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-12.7322,-15.420003)" />
+  <g
+     id="skin"
+     transform="translate(-12.7322,-15.420003)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-12.7322,-15.420003)" />
+  <g
+     id="line"
+     transform="translate(-12.7322,-15.420003)">
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2.069"
+       points="35.6352,54.0172 57.4698,48.7313 57.4698,21.7647 35.6167,26.5155 13.7667,21.7647 13.7667,48.7313 35.6013,54.0172 35.6013,30.3713"
+       id="polyline3" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2.069"
+       points="13.7667,21.7647 35.8082,16.4545 57.4698,21.7647"
+       id="polyline4" />
+    <circle
+       cx="21.2735"
+       cy="32.933899"
+       r="3"
+       id="circle4" />
+    <circle
+       cx="27.2446"
+       cy="44.376099"
+       r="3"
+       id="circle5" />
+    <circle
+       cx="41.766998"
+       cy="45.2211"
+       r="3"
+       id="circle6" />
+    <circle
+       cx="46.8274"
+       cy="38.066799"
+       r="3"
+       id="circle7" />
+    <circle
+       cx="51.887798"
+       cy="30.912399"
+       r="3"
+       id="circle8" />
+    <ellipse
+       cx="35.8312"
+       cy="21.121901"
+       rx="4"
+       ry="1.6191"
+       id="ellipse8" />
+  </g>
+</svg>

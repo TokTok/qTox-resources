@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 48.403961 44.601002"
+   version="1.1"
+   sodipodi:docname="1f354.svg"
+   width="48.403961"
+   height="44.601002"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-11.798,-13.7)">
+    <path
+       fill="#a57939"
+       d="M 57.6,48.95 16,49.297 c -1.104,0.0092 -2,-0.8955 -2,-2 v -6.75 c 0,-1.104 0.8955,-2 2,-2 l 41.89,0.6072 z"
+       id="path1" />
+    <path
+       fill="#f4aa41"
+       d="M 32.88,49.47 H 15 c -1.104,0 -2,0.7013 -2,1.566 v 4.699 c 0,0.865 0.8955,1.566 2,1.566 h 42 c 1.104,0 2,-0.7013 2,-1.566 V 51.036 C 59,50.171 58.1045,49.47 57,49.47 H 39.21"
+       id="path2" />
+    <path
+       fill="#e27022"
+       d="m 48,49.3 h 9 c 1.104,0 2,0.7168 2,1.601 v 4.803 c 0,0.8841 -0.8955,1.601 -2,1.601 h -9 z"
+       id="path3" />
+    <path
+       fill="#f4aa41"
+       d="m 59,27.53 c 0,0.7243 -0.8955,1.312 -2,1.312 H 15 c -1.104,0 -2,-0.5872 -2,-1.312 1.484,-7.465 11.21,-13.23 23,-13.23 11.79,0 21.52,5.765 23,13.23 z"
+       id="path4" />
+    <path
+       fill="#e27022"
+       d="m 42,15.14 c 3.074,3.299 5.156,7.823 6,13.67 h 9 c 1.104,0 2,-0.5738 2,-1.281 -1.5,-7.201 -10.66,-11.53 -17,-12.39 z"
+       id="path5" />
+    <polygon
+       transform="matrix(0.5893,0,0,0.5893,14.26,17.08)"
+       fill="#fcea2b"
+       points="36,49.19 49.94,35.25 22.06,35.25 "
+       id="polygon5" />
+    <path
+       fill="#6a462f"
+       stroke-width="0"
+       d="M 48,38.48 V 49.3 h 8 c 1.104,0 2,-0.8955 2,-2 v -6.75 c 0,-1.104 -0.8955,-2 -2,-2 h -6.666"
+       id="path6" />
+    <rect
+       x="16.33"
+       y="31.200001"
+       width="39.349998"
+       height="2.0929999"
+       fill="#ea5a47"
+       fill-rule="evenodd"
+       stroke="#ea5a47"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       paint-order="stroke fill markers"
+       id="rect6" />
+    <path
+       fill="#d22f27"
+       fill-rule="evenodd"
+       stroke="#d22f27"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 49.04,31.2 h 6.661 v 2.126 H 49.04 Z"
+       paint-order="stroke fill markers"
+       id="path7" />
+    <path
+       fill="#b1cc33"
+       stroke="#b1cc33"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 15.89,37.09 40.58,-0.3828 c 2.212,-0.4852 2.519,-1.021 2.732,-2.267 -1.861,1.266 -3.301,1.278 -4.582,1.438 -2.319,-0.01147 -4.462,0.02441 -5.933,-1.85 l -5.997,-0.4466 -4.338,1.914 -4.338,-0.0638 -4.785,-1.659 -5.104,-0.2552 c -1.222,1.475 -3.522,1.902 -4.913,2.361 -2.134,-0.3929 -4.418,0.8084 -6.398,-1.438 0.4895,1.538 0.4986,1.973 3.08,2.65 z"
+       id="path8" />
+    <path
+       fill="#5c9e31"
+       stroke="#5c9e31"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 49.02,37.84 7.438,-1.134 c 2.212,-0.4852 2.519,-1.021 2.732,-2.267 -1.861,1.266 -3.301,1.278 -4.582,1.438 -2.319,-0.01147 -2.088,-0.01915 -4.079,-1.018 L 49.02,33.9861 Z"
+       id="path9" />
+    <path
+       fill="#d22f27"
+       fill-rule="evenodd"
+       stroke="#d22f27"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="m 49.04,31.2 h 4.185 v 2.126 H 49.04 Z"
+       paint-order="stroke fill markers"
+       id="path10" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-11.798,-13.7)" />
+  <g
+     id="skin"
+     transform="translate(-11.798,-13.7)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-11.798,-13.7)" />
+  <g
+     id="line"
+     transform="translate(-11.798,-13.7)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 32.88,49.3 H 16 c -1.104,0 -2,-0.8955 -2,-2 v -6.75 c 0,-1.104 0.8955,-2 2,-2 h 40 c 1.104,0 2,0.8955 2,2 v 6.75 c 0,1.104 -0.8955,2 -2,2 H 39.21 Z"
+       id="path11" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 32.88,49.47 H 15 c -1.104,0 -2,0.7013 -2,1.566 v 4.699 c 0,0.865 0.8955,1.566 2,1.566 h 42 c 1.104,0 2,-0.7013 2,-1.566 V 51.036 C 59,50.171 58.1045,49.47 57,49.47 H 39.21 Z"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 59,27.93 c 0,0.7243 -0.8955,1.312 -2,1.312 H 15 c -1.104,0 -2,-0.5872 -2,-1.312 1.484,-7.465 11.21,-13.23 23,-13.23 11.79,0 21.52,5.765 23,13.23 z"
+       id="path13" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 43.24,38.93 H 28.76 l 7.242,7.164 z"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 59.19,34.1 c -0.7619,0.3964 -1.358,0.8199 -2.487,1.002 -1.368,0.3587 -3.178,0.2195 -4.602,0 -1.928,-0.3112 -2.302,-1.326 -4.602,-1.708 -1.424,-0.2195 -3.178,-0.2195 -4.602,0 -2.299,0.3815 -2.673,1.396 -4.602,1.708 -1.424,0.2195 -3.178,0.2195 -4.602,0 -1.928,-0.3112 -2.302,-1.326 -4.602,-1.708 -1.424,-0.2195 -3.178,-0.2195 -4.602,0 -2.299,0.3815 -2.673,1.396 -4.602,1.708 -1.424,0.2195 -3.178,0.2195 -4.602,0 C 14.156,34.9197 13.56,34.4962 12.798,34.1"
+       paint-order="stroke fill markers"
+       id="path15" />
+  </g>
+</svg>

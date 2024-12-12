@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 52.922234 46.533604"
+   version="1.1"
+   sodipodi:docname="1f4f9.svg"
+   width="52.922234"
+   height="46.533604"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-10.6659,-10.442497)">
+    <polygon
+       fill="#d0cfce"
+       stroke="none"
+       points="56.8424,53.1797 55.2808,53.1841 56.8424,53.1827 "
+       id="polygon1" />
+    <path
+       fill="#d0cfce"
+       stroke="none"
+       d="M 56.9266,51.1826 56.8398,32.207 c 6e-4,0 -3.5428,0.002 -6.0229,0.0034 l 0.0839,-9.2465 c 0,0 -11.988,0.852 -11.988,0.2998 l -0.3192,-2.7549 -23.3022,0.2012 -0.1605,35.4266 35.4702,-0.1364 0.0255,-2.8145 5.7991,-0.006 c -0.5485,-0.0028 0.5009,-1.9971 0.5009,-1.9971 z"
+       id="path1" />
+    <polygon
+       fill="#3f3f3f"
+       stroke="none"
+       points="51.3992,16.8445 42.8797,23.2636 50.137,23.7636 51.0027,30.3178 56.7998,25.7422 56.7998,25.7422 62.5882,24.3129 54.3197,11.4424 "
+       id="polygon2" />
+    <path
+       fill="#9b9b9a"
+       stroke="none"
+       d="M 45.3017,49.7968 V 32.5206 c 0,-1.2146 -0.9887,-2.2032 -2.2032,-2.2032 H 23.7052 V 52 h 19.3933 c 1.2145,0 2.2032,-0.9887 2.2032,-2.2032 z"
+       id="path2" />
+    <circle
+       cx="34.258801"
+       cy="43.336899"
+       r="4.9995999"
+       fill="#d0cfce"
+       stroke="none"
+       id="circle2" />
+    <rect
+       x="11.8384"
+       y="20.596701"
+       width="3.4530001"
+       height="18.7402"
+       fill="#3f3f3f"
+       stroke="none"
+       id="rect2" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-10.6659,-10.442497)" />
+  <g
+     id="skin"
+     transform="translate(-10.6659,-10.442497)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-10.6659,-10.442497)" />
+  <g
+     id="line"
+     transform="translate(-10.6659,-10.442497)">
+    <line
+       x1="57.576801"
+       x2="51.002701"
+       y1="25.128901"
+       y2="30.317801"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line2" />
+    <line
+       x1="43.8978"
+       x2="51.011398"
+       y1="22.9639"
+       y2="17.5618"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line3" />
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="62.5882,24.3129 54.3197,11.4424 51.0114,17.5731 57.5917,25.1289 "
+       id="polygon3" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="15.2914,39.4247 15.2914,55.9761 50.6011,55.9761 50.6011,23.2636 38.5936,23.2636 38.5936,20.5088 15.521,20.5088"
+       id="polyline3" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="54.7787,33.2126 56.8424,33.2067 56.8424,52.1795 54.7787,52.1854"
+       id="polyline4" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 42.3054,52 H 23.7011 V 30.3178 h 18.6043 c 1.6569,0 3,1.3431 3,3 V 49 c 0,1.6569 -1.3431,3 -3,3 z"
+       id="path4" />
+    <circle
+       cx="34.258499"
+       cy="43.336601"
+       r="5"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+    <rect
+       x="11.6659"
+       y="20.508801"
+       width="3.6255"
+       height="18.915899"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect4" />
+  </g>
+</svg>

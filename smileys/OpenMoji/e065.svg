@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 58 58"
+   version="1.1"
+   sodipodi:docname="e065.svg"
+   width="58"
+   height="58"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-7,-7)">
+    <circle
+       cx="36"
+       cy="36"
+       r="28"
+       fill="#fcea2b"
+       id="circle1" />
+    <path
+       fill="#fcea2b"
+       fill-rule="evenodd"
+       d="m 34.31,27.16 0.008,0.0467 c 2.003,-0.3473 4.135,-0.0214 6.033,1.074 4.305,2.485 5.78,7.99 3.294,12.29 l -13.26,22.97 c 11.44,2.278 23.56,-2.803 29.72,-13.47 4.209,-7.291 4.767,-15.69 2.241,-23.07 h -26.34 c -0.5771,0 -1.142,0.0543 -1.688,0.1581 z"
+       clip-rule="evenodd"
+       id="path1" />
+    <path
+       fill="#f1b31c"
+       fill-rule="evenodd"
+       d="M 27,43.5 8.2,32.62 C 9.87,18.75 21.68,8 36,8 48.32,8 58.77,15.951 62.52,27 H 36 c -4.971,0 -9,4.029 -9,9 0,2.192 0.7836,4.201 2.086,5.762 z"
+       clip-rule="evenodd"
+       id="path2" />
+    <circle
+       cx="36"
+       cy="36"
+       r="9"
+       fill="#f1b31c"
+       id="circle2" />
+  </g>
+  <g
+     id="line"
+     fill="none"
+     stroke="#000000"
+     stroke-width="2"
+     transform="translate(-7,-7)">
+    <circle
+       cx="36"
+       cy="36"
+       r="10"
+       id="circle3" />
+    <path
+       stroke-linecap="round"
+       d="M 44.66,41 33.16,60.92"
+       id="path3" />
+    <path
+       stroke-linecap="round"
+       d="M 11.08,33.16 31,44.66"
+       id="path4" />
+    <path
+       stroke-linecap="round"
+       d="M 36,26 H 59"
+       id="path5" />
+    <circle
+       cx="36"
+       cy="36"
+       r="28"
+       id="circle5" />
+  </g>
+</svg>

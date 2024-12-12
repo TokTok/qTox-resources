@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 42.02 57.162601"
+   version="1.1"
+   sodipodi:docname="e30c.svg"
+   width="42.02"
+   height="57.162601"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-14.98,-8.8667)">
+    <path
+       fill="#92d3f5"
+       d="m 40.98,32.1777 v 6.4111 c -0.0471,3.0625 -2.5675,5.5071 -5.63,5.4606 h -0.71 c -3.13,0.4462 -3,4.1706 -3,4.1706 h -5.66 c 0,0 0.13,-3.7244 -3,-4.1706 h -1.37 c -3.0625,0.0465 -5.5829,-2.3981 -5.63,-5.4606 v -6.4111 z"
+       id="path1" />
+    <path
+       fill="#ffffff"
+       d="m 16.7838,31.3463 c 0,0 -0.2656,-10.404 0.3914,-11.6241 0.657,-1.2201 2.2396,-2.8335 3.3659,-2.7397 1.1263,0.0938 15.264,0.0391 15.264,0.0391 0,0 3.7181,0.2348 4.3444,4.0313 0.5355,3.2465 0,10.3325 0,10.3325 L 16.7839,31.3463 Z"
+       id="path2" />
+    <rect
+       x="24.018"
+       y="48.220299"
+       width="9.3598003"
+       height="4.777"
+       fill="#d0cfce"
+       id="rect2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-14.98,-8.8667)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 35.3523,16.1351 H 21.6137 c -3.11,0 -5.6311,2.5211 -5.6311,5.6311 v 0 16.523 c 2e-4,3.1099 2.5212,5.6308 5.6311,5.6308 h 1.3647 c 3.13,0.46 3,4.3 3,4.3 h 5.66 c 0,0 -0.13,-3.84 3,-4.3 h 0.7139 c 3.11,0 5.6311,-2.5211 5.6311,-5.6311 V 21.7663 c 0,-3.11 -2.5211,-5.6311 -5.6311,-5.6312 z"
+       id="path3" />
+    <rect
+       x="24.018"
+       y="48.220299"
+       width="9.3598003"
+       height="4.777"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect3" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="28.698 52.997 28.698 60.958 28.698 65.029"
+       id="polyline3" />
+    <line
+       x1="15.9826"
+       x2="24.018"
+       y1="36.285198"
+       y2="36.285198"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line3" />
+    <line
+       x1="15.9826"
+       x2="21.327"
+       y1="32.1777"
+       y2="32.1777"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="15.9826"
+       x2="24.018"
+       y1="28.070299"
+       y2="28.070299"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line5" />
+    <line
+       x1="15.9826"
+       x2="21.327"
+       y1="23.962799"
+       y2="23.962799"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="23.257 16 28.483 10.958 34.385 16.135"
+       id="polyline6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.7312,9.8667 c 0.4563,2.2588 2.6573,3.7201 4.9161,3.2639 1.6455,-0.3324 2.9315,-1.6184 3.2639,-3.2639 H 56 v 55.1626"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 40.98,32.1777 v 6.4111 c -0.0471,3.0625 -2.5675,5.5071 -5.63,5.4606 h -0.71 c -3.13,0.4462 -3,4.1706 -3,4.1706 h -5.66 c 0,0 0.13,-3.7244 -3,-4.1706 h -1.37 c -3.0625,0.0465 -5.5829,-2.3981 -5.63,-5.4606 v -6.4111 z"
+       id="path7" />
+  </g>
+</svg>

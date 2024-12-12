@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 42 39.9622"
+   version="1.1"
+   sodipodi:docname="e31c.svg"
+   width="42"
+   height="39.9622"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-15,-12.696)">
+    <ellipse
+       cx="35.980301"
+       cy="39.9715"
+       rx="19.297199"
+       ry="11.0098"
+       fill="#ffffff"
+       id="ellipse1" />
+    <circle
+       cx="36.1436"
+       cy="39.6511"
+       r="8.8964005"
+       fill="#a57939"
+       id="circle1" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-15,-12.696)">
+    <ellipse
+       cx="36"
+       cy="39.921101"
+       rx="20"
+       ry="11.7371"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="ellipse2" />
+    <circle
+       cx="36.1436"
+       cy="39.6511"
+       r="4.8502002"
+       id="circle2" />
+    <circle
+       cx="36.1436"
+       cy="39.6511"
+       r="4.8502002"
+       fill="none"
+       id="circle3" />
+    <circle
+       cx="36.1436"
+       cy="39.6511"
+       r="8.8964005"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle4" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="43.135 24.35 45.118 20.313 47.144 22.465 49.635 17.393"
+       id="polyline4" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="24.316 16.259 26.649 20.104 23.745 20.653 26.675 25.483"
+       id="polyline5" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="36.48 22.682 36.29 18.188 33.569 19.342 33.331 13.696"
+       id="polyline6" />
+  </g>
+  <g
+     id="color-foreground"
+     transform="translate(-15,-12.696)">
+    <polyline
+       fill="none"
+       stroke="#d22f27"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="43.135 24.35 45.118 20.313 47.144 22.465 49.635 17.393"
+       id="polyline7" />
+    <polyline
+       fill="none"
+       stroke="#d22f27"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="24.316 16.259 26.649 20.104 23.745 20.653 26.675 25.483"
+       id="polyline8" />
+    <polyline
+       fill="none"
+       stroke="#d22f27"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="36.48 22.682 36.29 18.188 33.569 19.342 33.331 13.696"
+       id="polyline9" />
+  </g>
+</svg>

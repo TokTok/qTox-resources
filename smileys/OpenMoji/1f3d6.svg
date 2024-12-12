@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 52 37.254082"
+   version="1.1"
+   sodipodi:docname="1f3d6.svg"
+   width="52"
+   height="37.254082"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-9,-18.301248)">
+    <path
+       fill="#f1b31c"
+       d="m 10,50 c 0,-1 10.9255,-10.6791 24,-8.5 0.3311,0.0552 0.6606,0.1119 0.9885,0.17 l 5.5038,1.1217 C 49.5282,44.8554 59,49 60,49.4953 c 0,0 1.0586,1.1176 0.6667,2.4214 C 60.2708,53.2333 57.1563,54 57.1563,54 h -5.601 L 45.7257,55.2432 27.5833,55 15.0852,54 H 11.75 C 11.75,54 10.5301,53.4244 10,52.1667 9.4688,50.9063 10,50 10,50 Z"
+       id="path1" />
+    <path
+       fill="#92d3f5"
+       d="m 12,55.5 c 1.7419,-2.0295 4.3382,-5.4262 7,-5 2.888,0.4624 4.6471,4.065 6.4235,4.065 2.8824,0 4.5234,-3.588 8.5765,-4.065 3.6107,-0.4249 3.5938,2.2813 6.0156,3.6719 0.9737,0.5591 2.5983,0.3262 2.9844,0.3281 3.6617,0.0176 4.9681,-3.9727 8,-4 4.0625,-0.0366 7.4063,1.5625 8,5"
+       id="path2" />
+    <path
+       fill="#ffffff"
+       d="M 52.2263,33.4883 C 53.3772,26.9616 48.7987,20.6988 42,19.5 35.2013,18.3012 28.757,22.6204 27.6061,29.1471 Z"
+       id="path3" />
+    <path
+       fill="#ea5a47"
+       d="M 44.8403,32.1859 C 45.9911,25.6592 44.7195,19.9795 42,19.5 39.2805,19.0205 36.143,23.9227 34.9922,30.4495 Z"
+       id="path4" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-9,-18.301248)" />
+  <g
+     id="skin"
+     transform="translate(-9,-18.301248)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-9,-18.301248)" />
+  <g
+     id="line"
+     transform="translate(-9,-18.301248)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 12,54.5 c 1.7419,-2.0295 4.3382,-4.4262 7,-4 2.888,0.4624 3.3025,3.4841 6,4 3.091,0.5912 4.9469,-3.523 9,-4 3.6107,-0.4249 4.0565,2.411 6.6667,3.5456 1.0297,0.4476 1.9472,0.4525 2.3333,0.4544 3.6617,0.0176 4.9951,-3.5954 8,-4 1.3292,-0.179 3.3015,0.2273 6,3"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 41.687,44.0801 C 50.7229,46.1438 56.7475,48.5 60,48.5"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 10,49 c 3.572,-0.3572 9.7488,-8.8785 22.8233,-6.6994 0.3311,0.0552 0.6606,0.1119 0.9885,0.17"
+       id="path7" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 52.2263,33.4883 C 53.3772,26.9616 48.7987,20.6988 42,19.5 35.2013,18.3012 28.757,22.6204 27.6061,29.1471 Z"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 44.8403,32.1859 C 45.9911,25.6592 44.7195,19.9795 42,19.5 39.2805,19.0205 36.143,23.9227 34.9922,30.4495 Z"
+       id="path9" />
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="39.9162,31.3177 39.9162,31.3177 37.3115,46.0898 "
+       id="polygon9" />
+  </g>
+</svg>

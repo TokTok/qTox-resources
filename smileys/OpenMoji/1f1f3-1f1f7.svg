@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 64 40"
+   version="1.1"
+   sodipodi:docname="1f1f3-1f1f7.svg"
+   width="64"
+   height="40"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-4,-16)">
+    <rect
+       x="5"
+       y="17"
+       width="62"
+       height="38"
+       fill="#1e50a0"
+       id="rect1" />
+    <rect
+       x="5"
+       y="35"
+       width="62"
+       height="2"
+       fill="#f1b31c"
+       id="rect2" />
+    <polygon
+       fill="#ffffff"
+       stroke="#ffffff"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       points="16.808,45.192 19.464,44 17.104,45.704 20,46 17.104,46.296 19.464,48 16.808,46.808 18,49.464 16.296,47.104 16,50 15.704,47.104 14,49.464 15.192,46.808 12.536,48 14.896,46.296 12,46 14.896,45.704 12.536,44 15.192,45.192 14,42.536 15.704,44.896 16,42 16.296,44.896 18,42.536 "
+       id="polygon2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-4,-16)">
+    <rect
+       x="5"
+       y="17"
+       width="62"
+       height="38"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect3" />
+  </g>
+</svg>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 50.009998 49.762859"
+   version="1.1"
+   sodipodi:docname="1f3db.svg"
+   width="50.009998"
+   height="49.762859"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-10.99,-11.120139)">
+    <rect
+       x="18.540001"
+       y="26"
+       width="34.919998"
+       height="25.950001"
+       fill="#9b9b9a"
+       id="rect1" />
+    <rect
+       x="12"
+       y="56"
+       width="48"
+       height="4"
+       fill="#ffffff"
+       stroke-miterlimit="10"
+       id="rect2" />
+    <rect
+       x="14.13"
+       y="22"
+       width="43.740002"
+       height="4"
+       fill="#ffffff"
+       stroke-miterlimit="10"
+       id="rect3" />
+    <rect
+       x="15.72"
+       y="52"
+       width="40.549999"
+       height="4"
+       fill="#ffffff"
+       stroke-miterlimit="10"
+       id="rect4" />
+    <rect
+       x="18.5"
+       y="26"
+       width="4"
+       height="26"
+       fill="#ffffff"
+       stroke-miterlimit="10"
+       id="rect5" />
+    <rect
+       x="27.35"
+       y="26.15"
+       width="4"
+       height="26"
+       fill="#ffffff"
+       stroke-miterlimit="10"
+       id="rect6" />
+    <rect
+       x="49.52"
+       y="25.950001"
+       width="3.941"
+       height="26"
+       fill="#ffffff"
+       stroke-miterlimit="10"
+       id="rect7" />
+    <polygon
+       fill="#ffffff"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="53,21.75 36,12 19,21.75 "
+       id="polygon7" />
+    <rect
+       x="40.349998"
+       y="26.15"
+       width="4"
+       height="26"
+       fill="#ffffff"
+       stroke-miterlimit="10"
+       id="rect8" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-10.99,-11.120139)" />
+  <g
+     id="skin"
+     transform="translate(-10.99,-11.120139)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-10.99,-11.120139)" />
+  <g
+     id="line"
+     transform="translate(-10.99,-11.120139)">
+    <rect
+       x="11.99"
+       y="55.889999"
+       width="48.009998"
+       height="3.993"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect9" />
+    <rect
+       x="14.18"
+       y="21.76"
+       width="43.650002"
+       height="3.9990001"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2.001"
+       id="rect10" />
+    <rect
+       x="15.27"
+       y="51.759998"
+       width="41.470001"
+       height="3.993"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect11" />
+    <rect
+       x="18.35"
+       y="25.610001"
+       width="4.2979999"
+       height="26.299999"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.702"
+       id="rect12" />
+    <rect
+       x="27.35"
+       y="25.610001"
+       width="4.2979999"
+       height="26.299999"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.702"
+       id="rect13" />
+    <rect
+       x="49.349998"
+       y="25.610001"
+       width="4.2979999"
+       height="26.299999"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.702"
+       id="rect14" />
+    <polygon
+       transform="matrix(1.091,0,0,0.9982,-3.283,0.098)"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.916"
+       points="53,21.75 36,12 19,21.75 "
+       id="polygon14" />
+    <rect
+       x="40.349998"
+       y="25.610001"
+       width="4.2979999"
+       height="26.299999"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.702"
+       id="rect15" />
+  </g>
+</svg>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 64.013496 61.3857"
+   version="1.1"
+   sodipodi:docname="e212.svg"
+   width="64.013496"
+   height="61.3857"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-4,-6.6142998)">
+    <path
+       fill="#fcea2b"
+       d="m 35.1143,20.4165 a 1,1 0 0 1 -0.8955,-1.4448 l 0.81,-1.6323 a 1.041,1.041 0 0 1 1.791,0 l 0.8008,1.6113 a 1,1 0 0 1 -0.8828,1.4448 l -1.6113,0.021 z"
+       id="path1" />
+    <rect
+       x="31.770901"
+       y="20.232901"
+       width="8.4581003"
+       height="12.4186"
+       fill="#d0cfce"
+       id="rect1" />
+    <rect
+       x="37.1451"
+       y="20.232901"
+       width="3.0945001"
+       height="12.4186"
+       fill="#9b9b9a"
+       id="rect2" />
+    <polygon
+       fill="#d0cfce"
+       points="36,36.204 29.605,36.204 26.051,62.528 36,62.528 45.949,62.528 42.395,36.204 "
+       id="polygon2" />
+    <path
+       fill="#9b9b9a"
+       d="M 39.9355,40.08 A 1,1 0 0 0 38.9424,39.1972 H 33.0576 A 1,1 0 0 0 32.0645,40.08 l -2.6412,22.33 a 1,1 0 0 0 0.9932,1.1171 H 41.583 A 1.0009,1.0009 0 0 0 42.5762,62.41 Z"
+       id="path2" />
+    <g
+       id="color-2">
+      <rect
+         x="4"
+         y="62.527599"
+         width="64.013496"
+         height="5.4724002"
+         fill="#92d3f5"
+         id="rect3" />
+    </g>
+    <polygon
+       fill="#d0cfce"
+       points="32.731,14.029 36,10.031 39.269,14.029 "
+       id="polygon3" />
+    <rect
+       x="27.940201"
+       y="32.651402"
+       width="16.119699"
+       height="3.5527"
+       fill="#d0cfce"
+       id="rect4" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-4,-6.6142998)">
+    <line
+       x1="36"
+       x2="36"
+       y1="7.6142998"
+       y2="10.0312"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <rect
+       x="27.940201"
+       y="32.651402"
+       width="16.119699"
+       height="3.5527"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect5" />
+    <rect
+       x="31.770901"
+       y="20.232901"
+       width="8.4581003"
+       height="12.4186"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect6" />
+    <line
+       x1="40.229099"
+       x2="31.770901"
+       y1="23.233299"
+       y2="23.233299"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="41.135502"
+       x2="30.8645"
+       y1="20.232901"
+       y2="20.232901"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line7" />
+    <rect
+       x="33.348999"
+       y="14.0294"
+       width="5.2691998"
+       height="6.2034001"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect7" />
+    <line
+       x1="27.940201"
+       x2="27.035101"
+       y1="32.651402"
+       y2="31.0403"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="44.059799"
+       x2="44.964901"
+       y1="32.651402"
+       y2="31.0403"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line9" />
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="32.731,14.029 36,10.031 39.269,14.029 "
+       id="polygon9" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="41.224 59.486 38.942 40.197 33.058 40.197 30.776 59.486"
+       id="polyline9" />
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="36,36.204 29.605,36.204 26.051,62.528 36,62.528 45.949,62.528 42.395,36.204 "
+       id="polygon10" />
+    <line
+       x1="5.0040002"
+       x2="66.997498"
+       y1="62.527599"
+       y2="62.527599"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0005"
+       id="line10" />
+  </g>
+</svg>

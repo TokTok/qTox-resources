@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 48.494373 43.733597"
+   version="1.1"
+   sodipodi:docname="e329.svg"
+   width="48.494373"
+   height="43.733597"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-9.0963244,-13.40967)">
+    <path
+       fill="#92d3f5"
+       d="m 11.7973,32.1459 h 12.9681 a 1.6942,1.6942 0 0 1 1.2068,0.502 14.3889,14.3889 0 0 1 2.5537,3.0972 l 0.0151,0.0527 a 1.6913,1.6913 0 0 1 -1.6555,2.1059 l -15.0669,-0.008 a 1.7012,1.7012 0 0 1 -1.7,-1.6852 l -0.0222,-2.3473 a 1.7012,1.7012 0 0 1 1.7009,-1.7173 z"
+       id="path1" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-9.0963244,-13.40967)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 16.9855,42.7615 A 20.43,20.43 0 0 0 56.586,35.2777 20.4308,20.4308 0 0 0 16.9015,28.0205 c 0,0 8.7984,0.2756 8.8872,0.1679 3.721,-4.5128 6.0234,-5.59 10.3188,-5.59 a 12.6819,12.6819 0 0 1 0,25.3593 12.3643,12.3643 0 0 1 -10.1984,-5.412"
+       id="path2" />
+    <line
+       x1="17.332399"
+       x2="24.573099"
+       y1="42.411999"
+       y2="42.4557"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line2" />
+    <path
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 10.186,40.904 26.07,0.0783 a 3.232,3.232 0 0 1 -2.0356,1.4092 c -1.2526,0.1566 -24.0687,0.036 -24.0687,0.036 z"
+       id="path3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11.7973,32.1459 h 12.9681 a 1.6942,1.6942 0 0 1 1.2068,0.502 14.3889,14.3889 0 0 1 2.5537,3.0972 l 0.0151,0.0527 a 1.6913,1.6913 0 0 1 -1.6555,2.1059 l -15.0669,-0.008 a 1.7012,1.7012 0 0 1 -1.7,-1.6852 l -0.0222,-2.3473 a 1.7012,1.7012 0 0 1 1.7009,-1.7173 z"
+       id="path4" />
+    <ellipse
+       cx="32.7995"
+       cy="34.819199"
+       rx="3.2175"
+       ry="3.1989"
+       id="ellipse4" />
+  </g>
+</svg>

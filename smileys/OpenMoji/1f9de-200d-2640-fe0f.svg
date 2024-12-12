@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 40.131199 60.811172"
+   version="1.1"
+   sodipodi:docname="1f9de-200d-2640-fe0f.svg"
+   width="40.131199"
+   height="60.811172"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-15.926901,-4.0526001)">
+    <path
+       fill="#ffa7c0"
+       d="m 45.511,50.67 0.797,2.48 -1.1339,4.9948 -5.1813,5.6752 A 23.9672,23.9672 0 0 0 54.93,59.7071 c 0,0 2,-13 -10,-13 -3.1918,2.1279 -5.9264,3.5984 -9,3.5921 h 0.125 c -3.0736,0.0063 -5.8081,-1.4642 -9,-3.5921 -12,0 -10,13 -10,13 9.9776,6.0208 14.368,3.708 28.1188,-1.5619 l 0.6171,-3.5208 -24.0677,1.35 5.3094,-0.9076"
+       id="path1" />
+    <path
+       fill="#ffa7c0"
+       d="m 54.9151,59.7071 c 0,0 2,-13 -10,-13 -3.1919,2.1279 -5.9264,3.5984 -9,3.5921 h 0.125 c -3.0736,0.0063 -5.8081,-1.4642 -9,-3.5921 -12,0 -10,13 -10,13"
+       id="path2" />
+    <path
+       fill="#e67a94"
+       d="M 45.1974,46.7071 A 18.0129,18.0129 0 0 1 36.26,50.2956 c 13.0625,0.4115 13.0625,5.4115 13.8247,9.4115 h 5.1128 c 0,0 1.9999,-13 -10.0001,-13 z"
+       id="path3" />
+    <path
+       fill="#e67a94"
+       d="m 55.1974,59.7071 c 0,0 -11.7562,9.0259 -20.7368,2.9629 L 45.1741,58.1449 46.308,53.15 c 0,0 8.977,-2.4637 8.8894,6.5571 z"
+       id="path4" />
+    <ellipse
+       cx="35.992699"
+       cy="30.2071"
+       rx="11.3386"
+       ry="14.1732"
+       fill="#ffa7c0"
+       id="ellipse4" />
+    <polygon
+       fill="#fcea2b"
+       points="40.762,54.731 45.791,54.731 45.174,58.145 40.762,59.977 "
+       id="polygon4" />
+    <path
+       fill="#fcea2b"
+       d="m 36.2972,12.7659 v 0 c -1.6576,0 -3.0015,-0.4749 -3.0015,-1.0607 V 9.5837 c 0,-0.5858 1.3439,-1.0607 3.0015,-1.0607 v 0 c 1.6577,0 3.0015,0.4749 3.0015,1.0607 v 2.1215 c 0,0.5858 -1.3438,1.0607 -3.0015,1.0607 z"
+       id="path5" />
+    <path
+       fill="#3f3f3f"
+       d="M 38.1991,20.0215 C 38.96,22.32 47.314,21.94 48.3483,30.4081 c 0,0 5.5792,-18.1618 -12.2859,-17.2715 -17.8651,0.8903 -12.2859,15.55 -12.2859,15.55 1.7657,-8.2879 9.8525,-5.3417 10.09,-8.3093 -1e-4,3e-4 1.6024,-8.6058 4.3326,-0.3558 z"
+       id="path6" />
+    <ellipse
+       cx="36.326698"
+       cy="7.6905999"
+       rx="4.2526999"
+       ry="2.2135"
+       fill="#3f3f3f"
+       id="ellipse6" />
+    <path
+       fill="#fcea2b"
+       d="m 35.874,24.8735 v 0 a 2,2 0 0 1 -2,-2 v -4 a 2,2 0 0 1 2,-2 v 0 a 2,2 0 0 1 2,2 v 4 a 2,2 0 0 1 -2,2 z"
+       id="path7" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-15.926901,-4.0526001)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 39.9928,63.82 A 23.9672,23.9672 0 0 0 54.93,59.7071 c 0,0 2,-13 -10,-13 -3.1918,2.1279 -5.9264,3.5984 -9,3.5921 h 0.125 c -3.0736,0.0063 -5.8081,-1.4642 -9,-3.5921 -12,0 -10,13 -10,13 9.9776,6.0208 14.368,3.708 28.1188,-1.5619 l 0.6171,-3.5208 -24.0677,1.35"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 45.511,50.67 0.797,2.48 -1.1339,4.9948"
+       id="path9" />
+    <path
+       d="m 41.9928,28.8463 a 2,2 0 1 1 -2,-2 2.0007,2.0007 0 0 1 2,2"
+       id="path10" />
+    <path
+       d="m 33.9928,28.8463 a 2,2 0 1 1 -2,-2 2.0007,2.0007 0 0 1 2,2"
+       id="path11" />
+    <path
+       d="m 35.9927,38.8487 a 7.6528,7.6528 0 0 1 -3.4473,-0.8579 1.0001485,1.0001485 0 0 1 0.8946,-1.7891 5.3772,5.3772 0 0 0 5.1054,0 1.0001485,1.0001485 0 0 1 0.8946,1.7891 7.6528,7.6528 0 0 1 -3.4473,0.8579 z"
+       id="path12" />
+    <line
+       x1="40.7621"
+       x2="40.7621"
+       y1="55.024399"
+       y2="59.7728"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line12" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 33.8291,20.6964 c -2.9676,3.9172 -8.2893,0.2 -9.097,7.6924 a 17.83,17.83 0 0 0 -0.0949,1.8417 c 0,7.8276 5.0765,14.1732 11.3386,14.1732 6.2621,0 11.3386,-6.3456 11.3386,-14.1732 a 17.8264,17.8264 0 0 0 -0.101,-1.9 c -1.4014,-7.134 -7.5085,-4.5481 -9.289,-7.9906"
+       id="path13" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 39.834,10.2366 c 0,0 3.7378,-5.1462 -3.5483,-5.184 l -0.0316,0.0077 c -7.2861,0.0378 -3.5482,5.184 -3.5482,5.184"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 32.6318,11.965 c -1.1446,-3.7662 8.4185,-4.1724 7.2,0"
+       id="path15" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 24.7109,31.7423 C 18.5374,19.706 27.0713,12.86 36.02,12.86"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 47.4747,31.7028 C 49.84,30.2834 53.25,13.1766 36.2255,12.86"
+       id="path17" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 35.9046,24.72 v 0 a 2,2 0 0 1 -2,-2 v -4 a 2,2 0 0 1 2,-2 v 0 a 2,2 0 0 1 2,2 v 4 a 2,2 0 0 1 -2,2 z"
+       id="path18" />
+  </g>
+</svg>

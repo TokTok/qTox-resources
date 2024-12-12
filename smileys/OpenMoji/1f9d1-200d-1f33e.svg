@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 52.949947 52.000782"
+   version="1.1"
+   sodipodi:docname="1f9d1-200d-1f33e.svg"
+   width="52.949947"
+   height="52.000782"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-15.967101,-7.0684174)">
+    <path
+       fill="#b1cc33"
+       d="m 54.9702,59.0416 c 0,0 2,-13.9922 -10,-13.9922 -3.1919,2.1279 -5.9264,3.5985 -9,3.5922 h 0.125 c -3.0736,0.0063 -5.8082,-1.4643 -9,-3.5922 -12,0 -10,13.9922 -10,13.9922"
+       id="path1" />
+    <polyline
+       fill="#5c9e31"
+       points="27.0327,45.0494 32.8364,53.9364 36.0327,48.6416"
+       id="polyline1" />
+    <polyline
+       fill="#5c9e31"
+       points="45.0327,45.0494 39.2289,53.9364 36.0327,48.6416"
+       id="polyline2" />
+    <rect
+       x="57.912102"
+       y="39.4534"
+       width="5.4801998"
+       height="4.2448001"
+       fill="#9b9b9a"
+       id="rect2" />
+    <polygon
+       fill="#a57939"
+       points="58.6522,43.7392 58.6522,54.8388 58.6522,58.0592 58.6522,59.0416 62.855,59.0416 62.855,54.8388 62.6522,54.8388 62.6522,43.7392 "
+       id="polygon2" />
+    <rect
+       x="22.1623"
+       y="45.089699"
+       width="4.2883"
+       height="13.9706"
+       fill="#61b2e4"
+       id="rect3" />
+    <polygon
+       fill="#61b2e4"
+       points="22.1623,59.0132 49.653,59.0132 49.653,58.2054 22.1623,58.0353 "
+       id="polygon3" />
+    <polygon
+       fill="#61b2e4"
+       points="44.6313,50.7728 44.6313,59.032 48.9196,59.032 48.9196,45.0897 44.6313,45.0897 "
+       id="polygon4" />
+    <polyline
+       fill="#f4aa41"
+       points="27.185,16.2702 27.185,8.0684 35.9702,9.4857 44.7553,8.0684 44.7553,16.2702"
+       id="polyline4" />
+    <rect
+       x="27.184999"
+       y="12.8535"
+       width="17.446301"
+       height="2.6585"
+       fill="#e27022"
+       id="rect4" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-15.967101,-7.0684174)">
+    <path
+       fill="#6a462f"
+       d="m 24.724,24.9937 c -0.2098,1.0778 -0.321,2.2038 -0.321,3.3623 0,0.7929 0.0521,1.5707 0.1523,2.3282 l -0.4737,-0.5234 c 0,0 -4.6525,-6.8512 2.5534,-13.8906 h 18.2132 c 7.206,7.0394 2.5535,13.8906 2.5535,13.8906 L 41.7418,17.5364 c 0,0 -1.4782,3.8056 -5.6542,3.4931 0,0 1.0645,-4.7593 -0.2835,-4.7593 0,0 -5.1834,6.2171 -11.0729,8.7249"
+       id="path4" />
+  </g>
+  <g
+     id="skin"
+     transform="translate(-15.967101,-7.0684174)">
+    <path
+       fill="#fcea2b"
+       d="m 41.7418,17.5364 c 0,0 -1.4782,3.8056 -5.6542,3.4931 0,0 1.0645,-4.7593 -0.2835,-4.7593 0,0 -5.1794,6.2122 -11.0663,8.7219 -0.0145,0.0745 -0.0322,0.1473 -0.0458,0.2222 -0.0624,0.3441 -0.1099,0.6948 -0.1518,1.0479 -0.0198,0.1668 -0.0459,0.3309 -0.061,0.4996 -0.047,0.5239 -0.0762,1.0546 -0.0762,1.5942 0,0.4494 0.0211,0.8925 0.0538,1.3311 0.0104,0.1393 0.0273,0.2761 0.0409,0.4142 0.6894,7.0025 5.4556,12.428 11.2439,12.428 5.9927,0 10.8871,-5.8153 11.2983,-13.1756 z"
+       id="path5" />
+  </g>
+  <g
+     id="skin-shadow"
+     transform="translate(-15.967101,-7.0684174)" />
+  <g
+     id="line"
+     transform="translate(-15.967101,-7.0684174)">
+    <path
+       d="m 41.9703,26.9951 c 0,1.1045 -0.8965,2 -2,2 -1.1035,0 -2,-0.8955 -2,-2 0,-1.1035 0.8965,-2 2,-2 1.1035,0 2,0.8965 2,2"
+       id="path6" />
+    <path
+       d="m 33.9703,26.9951 c 0,1.1045 -0.8965,2 -2,2 -1.1035,0 -2,-0.8955 -2,-2 0,-1.1035 0.8965,-2 2,-2 1.1035,0 2,0.8965 2,2"
+       id="path7" />
+    <path
+       d="m 35.9702,36.9976 c -1.1519,0 -2.3038,-0.2862 -3.4473,-0.8579 -0.4942,-0.2471 -0.6943,-0.8477 -0.4473,-1.3418 0.2466,-0.4937 0.8462,-0.6944 1.3418,-0.4473 1.7178,0.8594 3.3877,0.8594 5.1055,0 0.4946,-0.2471 1.0947,-0.0464 1.3418,0.4473 0.2471,0.4941 0.0469,1.0947 -0.4473,1.3418 -1.1435,0.5717 -2.2954,0.8579 -3.4472,0.8579 z"
+       id="path8" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="27.0327,45.0494 32.8364,53.9364 36.0327,48.6416"
+       id="polyline8" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="45.0327,45.0494 39.2289,53.9364 36.0327,48.6416"
+       id="polyline9" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 53.4805,23.7951 c 0,0 -2.3766,15.4155 7.0845,15.6583 V 23.7951"
+       id="path9" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 67.6495,23.7951 c 0,0 2.3767,15.4155 -7.0845,15.6583 V 23.7951"
+       id="path10" />
+    <rect
+       x="57.912102"
+       y="39.4534"
+       width="5.4801998"
+       height="4.2448001"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect10" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="62.6522,58.0692 62.6522,43.7392 58.6522,43.7392 58.6522,58.0592"
+       id="polyline10" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 54.9702,58.0494 c 0,0 2,-13 -10,-13 -3.1919,2.1279 -5.9264,3.5985 -9,3.5922 h 0.125 c -3.0736,0.0063 -5.8082,-1.4643 -9,-3.5922 -12,0 -10,13 -10,13"
+       id="path11" />
+    <line
+       x1="22.1623"
+       x2="22.1623"
+       y1="46.0014"
+       y2="58.035301"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line11" />
+    <line
+       x1="49.653"
+       x2="49.653"
+       y1="46.0014"
+       y2="58.063702"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="27.301,45.3046 27.301,58.0353 44.7492,58.0211 44.7492,45.2839"
+       id="polyline12" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       d="m 24.724,24.9937 c -0.2098,1.0778 -0.321,2.2038 -0.321,3.3623 0,0.7929 0.0521,1.5707 0.1523,2.3282 l -0.4737,-0.5234 c 0,0 -4.6525,-6.8512 2.5534,-13.8906 h 18.2132 c 7.206,7.0394 2.5535,13.8906 2.5535,13.8906 L 41.7418,17.5364 c 0,0 -1.4782,3.8056 -5.6542,3.4931 0,0 1.0645,-4.7593 -0.2835,-4.7593 0,0 -5.1834,6.2171 -11.0729,8.7249"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 24.9525,24.9937 c -0.2097,1.0778 -0.3209,2.2038 -0.3209,3.3623 0,7.8276 5.0764,14.1732 11.3386,14.1732 5.9698,0 10.8621,-5.7671 11.3058,-13.0874"
+       id="path13" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 45.0768,16.2702 c 7.2059,7.0394 2.5534,13.8906 2.5534,13.8906 L 41.9703,17.5364 c 0,0 -1.4782,3.8056 -5.6542,3.4931 0,0 1.0646,-4.7593 -0.2834,-4.7593 0,0 -5.1834,6.2171 -11.0729,8.7249"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 24.3101,30.1608 c 0,0 -4.6525,-6.8512 2.5534,-13.8906"
+       id="path15" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="27.185,16.2702 27.185,8.0684 35.9702,9.4857 44.7553,8.0684 44.7553,16.2702"
+       id="polyline15" />
+    <line
+       x1="27.184999"
+       x2="44.755299"
+       y1="12.7654"
+       y2="12.7654"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line15" />
+    <line
+       x1="19.512699"
+       x2="52.080898"
+       y1="16.270201"
+       y2="16.270201"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line16" />
+  </g>
+</svg>

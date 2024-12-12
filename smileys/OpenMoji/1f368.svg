@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 41.946701 50.973351"
+   version="1.1"
+   sodipodi:docname="1f368.svg"
+   width="41.946701"
+   height="50.973351"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-15.02665,-10)">
+    <ellipse
+       cx="35.9995"
+       cy="21.0014"
+       rx="9.9996996"
+       ry="10.0004"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-4.3062,31.6067)"
+       fill="#fcea2b"
+       id="ellipse1" />
+    <path
+       fill="#f1b31c"
+       d="m 43.0703,13.9375 c -2.5937,-2.5937 -6.2578,-3.4551 -9.5713,-2.6016 1.6748,0.4317 3.2608,1.2911 4.5713,2.6016 3.9063,3.9063 3.9063,10.2378 10e-4,14.1421 -1.3106,1.311 -2.8975,2.1724 -4.5713,2.602 3.3135,0.8536 6.9766,-0.0078 9.5713,-2.602 3.9053,-3.9043 3.9053,-10.2358 -10e-4,-14.1421 z"
+       id="path1" />
+    <path
+       fill="#fcea2b"
+       d="m 52.0703,23.9297 c 3.9063,3.9043 3.9063,10.2363 10e-4,14.1426 C 48.166,41.9766 39.9053,44.9043 36,41 32.0947,37.0938 34.0234,27.834 37.9287,23.9287 41.834,20.0234 48.166,20.0234 52.0703,23.9297 Z"
+       id="path2" />
+    <path
+       fill="#f1b31c"
+       d="m 52.0703,23.9375 c -2.5937,-2.5937 -6.2578,-3.4551 -9.5713,-2.6016 1.6748,0.4317 3.2608,1.2911 4.5713,2.6016 3.9063,3.9063 3.9063,10.2383 10e-4,14.1426 -1.3106,1.3105 -2.8975,2.1719 -4.5713,2.6015 3.3135,0.8536 6.9766,-0.0078 9.5713,-2.6015 3.9053,-3.9043 3.9053,-10.2363 -10e-4,-14.1426 z"
+       id="path3" />
+    <ellipse
+       cx="26.999201"
+       cy="31.002199"
+       rx="9.9998999"
+       ry="10.0006"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-14.014,28.1716)"
+       fill="#fcea2b"
+       id="ellipse3" />
+    <path
+       fill="#f1b31c"
+       d="m 34.0703,23.9375 c -2.5937,-2.5937 -6.2578,-3.4551 -9.5713,-2.6016 1.6748,0.4317 3.2608,1.2911 4.5713,2.6016 3.9063,3.9063 3.9063,10.2383 0.001,14.1426 -1.3106,1.3105 -2.8975,2.1719 -4.5713,2.6015 3.3135,0.8536 6.9766,-0.0078 9.5713,-2.6015 3.9053,-3.9043 3.9053,-10.2363 -10e-4,-14.1426 z"
+       id="path4" />
+    <path
+       fill="#ffffff"
+       d="m 33,60 v -6 c 0,-2.7617 -2.2393,-5 -5,-5 h -4 -3 c -2.7607,0 -5,-2.2383 -5,-5 v -3 c 0,-1.1045 0.8955,-2 2,-2 h 36 c 1.1045,0 2,0.8955 2,2 v 3 c 0,2.7617 -2.2393,5 -5,5 h -3 -4 c -2.7607,0 -5,2.2383 -5,5 v 6"
+       id="path5" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-15.02665,-10)" />
+  <g
+     id="skin"
+     transform="translate(-15.02665,-10)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-15.02665,-10)" />
+  <g
+     id="line"
+     transform="translate(-15.02665,-10)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 26,21 c 0,-5.5228 4.4772,-10 10,-10 5.5228,0 10,4.4772 10,10"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 36.0657,26.5031 C 37.7119,23.2387 41.0947,21 45,21 c 5.5225,0 10,4.4766 10,10 0,3.1787 -1.4829,6.0107 -3.7946,7.8423"
+       id="path7" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 20.6391,38.7165 C 18.4166,36.8823 17,34.1066 17,31 c 0,-5.5228 4.4772,-10 10,-10 5.5228,0 10,4.4772 10,10 0,3.1784 -1.4828,6.0105 -3.7945,7.8421"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.9467"
+       d="m 33,60 v -6 c 0,-2.7617 -2.2393,-5 -5,-5 h -4 -3 c -2.7607,0 -5,-2.2383 -5,-5 v -3 c 0,-1.1045 0.8955,-2 2,-2 h 36 c 1.1045,0 2,0.8955 2,2 v 3 c 0,2.7617 -2.2393,5 -5,5 h -3 -4 c -2.7607,0 -5,2.2383 -5,5 v 6"
+       id="path9" />
+    <line
+       x1="29"
+       x2="43"
+       y1="60"
+       y2="60"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.9467"
+       id="line9" />
+  </g>
+</svg>

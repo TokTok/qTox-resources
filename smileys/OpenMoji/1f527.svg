@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 29.317642 52.521545"
+   version="1.1"
+   sodipodi:docname="1f527.svg"
+   width="29.317642"
+   height="52.521545"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-21.841179,-12.384854)">
+    <path
+       fill="#d0cfce"
+       stroke="none"
+       d="M 41,64.9049 V 36.4955 l 1.3665,-0.5232 C 46.4456,34.4106 49.3682,30.7262 50,26.3493 v 0 c 0.601,-4.2688 -0.4505,-7.5594 -3,-10.1462 0,0 -1.3928,-1.4132 -3.5973,-2.4706 C 42.75,13.4194 42,13.9291 42,14.6615 v 7.6293 l -2,3.0439 H 37 36 33 L 31,22.2908 V 14.6615 C 31,13.9291 30.25,13.4194 29.5974,13.7325 27.3928,14.7899 26,16.2031 26,16.2031 c -2.5495,2.5868 -3.601,5.8774 -3,10.1462 0.005,0.0356 0.0102,0.0712 0.0154,0.1068 0.6494,4.3916 3.72,8.0239 7.815,9.5916 L 32,36.4955 v 28.4094"
+       id="path1" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-21.841179,-12.384854)" />
+  <g
+     id="skin"
+     transform="translate(-21.841179,-12.384854)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-21.841179,-12.384854)" />
+  <g
+     id="line"
+     transform="translate(-21.841179,-12.384854)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 41,63.9064 v -28 l 1.3665,-0.5157 C 46.4456,33.8515 49.3682,30.2202 50,25.9064 v 0 c 0.601,-4.2073 -0.4505,-7.4505 -3,-10 0,0 -1.3928,-1.3928 -3.5973,-2.435 C 42.75,13.1629 42,13.6653 42,14.3871 v 7.5193 l -2,3 h -3 -1 -3 l -2,-3 V 14.3871 C 31,13.6652 30.25,13.1629 29.5974,13.4714 27.3928,14.5136 26,15.9064 26,15.9064 c -2.5495,2.5495 -3.601,5.7927 -3,10 0.005,0.0351 0.0102,0.0702 0.0154,0.1052 0.6494,4.3283 3.72,7.9082 7.815,9.4534 L 32,35.9064 v 28"
+       id="path2" />
+  </g>
+</svg>

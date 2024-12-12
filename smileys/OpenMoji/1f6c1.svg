@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 52 54.346352"
+   version="1.1"
+   sodipodi:docname="1f6c1.svg"
+   width="52"
+   height="54.346352"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-10.0074,-9.7816473)">
+    <path
+       fill="#9b9b9a"
+       stroke="none"
+       d="m 22.7591,54.4599 h -5.4412 l -2.5565,7.3286 c -0.336,0.9633 0.3791,1.9701 1.3993,1.9701 h 3.3547 z"
+       id="path1" />
+    <path
+       fill="#9b9b9a"
+       stroke="none"
+       d="m 47.124,54.4599 h 5.4412 l 2.5565,7.3286 c 0.336,0.9633 -0.3791,1.9701 -1.3993,1.9701 h -3.3547 z"
+       id="path2" />
+    <polyline
+       fill="#9b9b9a"
+       stroke="none"
+       points="16.5342,59.5982 15.3913,63.128 18.9152,63.128 19.5818,61.0744"
+       id="polyline2" />
+    <polyline
+       fill="#9b9b9a"
+       stroke="none"
+       points="53.439,59.5982 54.5818,63.128 51.058,63.128 50.3913,61.0744"
+       id="polyline3" />
+    <path
+       fill="#d0cfce"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11.0074,34.2178 v 9.4286 c 0,6.9143 5.4,12.5714 12,12.5714 h 26 c 6.6,0 12,-5.6571 12,-12.5714 v -9.4286 c 0,0 -23,2.0952 -50,0 z"
+       id="path3" />
+    <path
+       fill="#9b9b9a"
+       stroke="none"
+       d="M 43.8036,56.2178 60.5643,34.5089 60.508,47.2743 c 0,0 -1.9682,5.6235 -6.8045,8.0979 0,-10e-5 -5.3449,1.408 -9.8999,0.8456 z"
+       id="path4" />
+    <path
+       fill="#d0cfce"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 46.1661,14.3051 c 1.6097,-2.1022 4.2966,-2.7481 6.0014,-1.4428 1.7048,1.3053 1.7819,4.0678 0.1722,6.17 z"
+       id="path5" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-10.0074,-9.7816473)" />
+  <g
+     id="skin"
+     transform="translate(-10.0074,-9.7816473)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-10.0074,-9.7816473)" />
+  <g
+     id="line"
+     transform="translate(-10.0074,-9.7816473)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11.0074,34.2178 v 9.4286 c 0,6.9143 5.4,12.5714 12,12.5714 h 26 c 6.6,0 12,-5.6571 12,-12.5714 v -9.4286 c 0,0 -23,2.0952 -50,0 z"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 58.6681,34.2178 V 14.3617 c 0,0 0,-6.9454 -6.5006,-1.4994"
+       id="path7" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 46.1661,14.3051 c 1.6097,-2.1022 4.2966,-2.7481 6.0014,-1.4428 1.7048,1.3053 1.7819,4.0678 0.1722,6.17 z"
+       id="path8" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="53.439,59.5982 54.5818,63.128 51.058,63.128 50.3913,61.0744"
+       id="polyline8" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="16.5342,59.5982 15.3913,63.128 18.9152,63.128 19.5818,61.0744"
+       id="polyline9" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11.0074,34.2178 v 9.4286 c 0,6.9143 5.4,12.5714 12,12.5714 h 26 c 6.6,0 12,-5.6571 12,-12.5714 v -9.4286 c 0,0 -23,2.0952 -50,0 z"
+       id="path9" />
+  </g>
+</svg>

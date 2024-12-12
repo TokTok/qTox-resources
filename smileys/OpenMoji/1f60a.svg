@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="1f60a.svg"
+   width="48"
+   height="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-12,-12)">
+    <circle
+       cx="36.000099"
+       cy="36"
+       r="22.999901"
+       fill="#fcea2b"
+       id="circle1" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-12,-12)" />
+  <g
+     id="skin"
+     transform="translate(-12,-12)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-12,-12)" />
+  <g
+     id="line"
+     transform="translate(-12,-12)">
+    <circle
+       cx="36"
+       cy="36"
+       r="23"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle2" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 45.8147,45.2268 a 15.4294,15.4294 0 0 1 -19.6294,0"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 31.6941,33.4036 a 4.7262,4.7262 0 0 0 -8.6382,0"
+       id="path3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 48.9441,33.4036 a 4.7262,4.7262 0 0 0 -8.6382,0"
+       id="path4" />
+  </g>
+</svg>
