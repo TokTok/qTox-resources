@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 58.575996 56.6222"
+   version="1.1"
+   sodipodi:docname="e09a.svg"
+   width="58.575996"
+   height="56.6222"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs27" />
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-7.244,-7.1368)">
+    <path
+       fill="#ffffff"
+       d="m 45.1178,11.8696 6.2509,-1.6625 c 0.174,-0.0463 0.3501,-0.0839 0.5277,-0.1139 0.3741,-0.063 1.0113,-0.1736 1.4833,-0.2429 0.3184,-0.0467 0.6385,-0.0524 0.9585,-0.0182 l 9.6491,0.5112 c 0.6839,0 1.5128,1.806 1.11,2.3587 l -4.5786,4.8561 c -0.7631,0.2081 -0.5147,1.6756 -0.2081,2.1506 l 4.648,5.4804 c 0.4489,0.6954 0.7015,1.8328 0.2081,2.4974 l -5.2809,4.9783 c -0.3067,0.4131 -0.296,0.9812 0.0259,1.3826 l 4.7694,4.9469 c 0.5442,0.6786 0.2485,1.9327 -0.3469,2.5668 l -4.2976,4.2465 c -0.2227,0.2371 -0.233,0.6032 -0.0242,0.8526 l 5.2236,4.6131 c 0.6207,0.7595 -0.1858,2.3127 -0.9018,2.983 L 57.5697,59.4231 38.3888,34.0688 45.1981,12.6646 c 0.0031,-0.1572 -0.2357,-0.772 -0.0801,-0.7951 z"
+       id="path1" />
+    <polygon
+       fill="#9b9b9a"
+       points="31.046,36.135 37.309,37.608 42.625,36.135 47.753,42.546 56.1,48.371 62.656,63.268 7.785,63.268 21.297,43.369 "
+       id="polygon1" />
+    <circle
+       cx="22.7062"
+       cy="18.6085"
+       r="5.0643001"
+       fill="#3f3f3f"
+       id="circle1" />
+    <circle
+       cx="40.738201"
+       cy="13.0158"
+       r="4.8790002"
+       fill="#9b9b9a"
+       id="circle2" />
+    <circle
+       cx="53.069698"
+       cy="25.946301"
+       r="4.8790002"
+       fill="#9b9b9a"
+       id="circle3" />
+    <circle
+       cx="32.038799"
+       cy="15.7089"
+       r="6.5809002"
+       fill="#9b9b9a"
+       id="circle4" />
+    <circle
+       cx="43.9506"
+       cy="21.655001"
+       r="7.8211999"
+       fill="#9b9b9a"
+       id="circle5" />
+    <circle
+       cx="36.245399"
+       cy="26.2645"
+       r="5.6424999"
+       fill="#3f3f3f"
+       id="circle6" />
+    <polygon
+       fill="#d0cfce"
+       points="47.364,51.131 44.249,48.626 47.753,42.546 56.1,48.371 62.656,63.268 43.483,63.268 "
+       id="polygon6" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-7.244,-7.1368)">
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="8.244 62.609 21.297 43.369 31.046 36.135 37.309 37.608 42.625 36.135 47.753 42.546 56.1 48.371 62.456 62.759"
+       id="polyline6" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="25.214 40.46 26.868 43.992 25.254 50.276 26.17 57.589"
+       id="polyline7" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="47.753 42.546 44.249 48.626 47.364 51.131 45.786 56.065"
+       id="polyline8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 32.2514,22.279 c -2.2011,2.206 -2.1971,5.7786 0.009,7.9797 2.206,2.2011 5.7786,2.197 7.9797,-0.009 0.3786,-0.3794 0.7012,-0.8109 0.958,-1.2813 0.8793,0.3341 1.8118,0.5061 2.7524,0.5077"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 40.7382,8.1368 c -1.8281,0.0044 -3.4991,1.0343 -4.3248,2.6653 -2.7037,-2.4199 -6.8572,-2.1899 -9.2772,0.5138 -0.7911,0.8838 -1.3281,1.9654 -1.5541,3.1298 -2.2956,-1.5917 -5.4469,-1.021 -7.0386,1.2746 -0.5881,0.8482 -0.9026,1.856 -0.9014,2.8882"
+       id="path9" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 43.9506,13.8337 c 4.3195,0 7.8212,3.5018 7.8212,7.8213"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 51.7575,21.2458 c 2.5982,-0.7225 5.2902,0.7981 6.0127,3.3963 0.1181,0.4247 0.1781,0.8634 0.1785,1.3042"
+       id="path11" />
+    <circle
+       cx="64.009903"
+       cy="11.7481"
+       r="1.4802001"
+       id="circle11" />
+    <circle
+       cx="58.679298"
+       cy="18.599701"
+       r="1.4802001"
+       id="circle12" />
+    <circle
+       cx="46.448299"
+       cy="18.599701"
+       r="1.4802001"
+       id="circle13" />
+    <circle
+       cx="64.339798"
+       cy="26.451401"
+       r="1.4802001"
+       id="circle14" />
+    <circle
+       cx="58.679298"
+       cy="32.962898"
+       r="1.4802001"
+       id="circle15" />
+    <circle
+       cx="64.009903"
+       cy="40.144501"
+       r="1.4802001"
+       id="circle16" />
+    <circle
+       cx="58.679298"
+       cy="45.996201"
+       r="1.4802001"
+       id="circle17" />
+    <circle
+       cx="64.009903"
+       cy="52.517899"
+       r="1.4802001"
+       id="circle18" />
+    <circle
+       cx="57.359501"
+       cy="60.359402"
+       r="1.4802001"
+       id="circle19" />
+    <circle
+       cx="52.916401"
+       cy="11.7481"
+       r="1.4802001"
+       id="circle20" />
+    <circle
+       cx="41.5145"
+       cy="11.7481"
+       r="1.4802001"
+       id="circle21" />
+    <circle
+       cx="52.916401"
+       cy="26.451401"
+       r="1.4802001"
+       id="circle22" />
+    <circle
+       cx="47.448299"
+       cy="32.962898"
+       r="1.4802001"
+       id="circle23" />
+    <circle
+       cx="52.916401"
+       cy="40.144501"
+       r="1.4802001"
+       id="circle24" />
+    <circle
+       cx="52.256401"
+       cy="52.517899"
+       r="1.4802001"
+       id="circle25" />
+    <circle
+       cx="48.1082"
+       cy="60.359402"
+       r="1.4802001"
+       id="circle26" />
+    <circle
+       cx="41.5145"
+       cy="40.144501"
+       r="1.4802001"
+       id="circle27" />
+  </g>
+</svg>

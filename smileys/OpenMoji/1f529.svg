@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 48.503563 49.139217"
+   version="1.1"
+   sodipodi:docname="1f529.svg"
+   width="48.503563"
+   height="49.139217"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-12.174,-10.986777)">
+    <g
+       id="_1F529">
+      <polygon
+         fill="#9b9b9a"
+         points="46.961,32.467 39.869,25.374 36.804,28.439 43.931,35.497 "
+         id="polygon1" />
+      <rect
+         x="35.171101"
+         y="18.7696"
+         width="23.948"
+         height="11.4993"
+         transform="rotate(45,47.145099,24.519239)"
+         fill="#d0cfce"
+         id="rect1" />
+      <polyline
+         fill="#d0cfce"
+         points="32.174 33.07 39.869 25.374 46.961 32.467 19.415 60.013 12.322 52.921 32.174 33.07"
+         id="polyline1" />
+      <rect
+         x="30.858"
+         y="35.5005"
+         width="10.0303"
+         height="1.9238"
+         transform="rotate(45,35.873244,36.462484)"
+         fill="#9b9b9a"
+         id="rect2" />
+      <rect
+         x="21.335501"
+         y="45.023102"
+         width="10.0303"
+         height="1.9238"
+         transform="rotate(45,26.350599,45.984976)"
+         fill="#9b9b9a"
+         id="rect3" />
+      <rect
+         x="19.294901"
+         y="47.063599"
+         width="10.0303"
+         height="1.9238"
+         transform="rotate(45,24.310148,48.025593)"
+         fill="#9b9b9a"
+         id="rect4" />
+      <rect
+         x="17.2544"
+         y="49.104198"
+         width="10.0303"
+         height="1.9238"
+         transform="rotate(45,22.269526,50.06614)"
+         fill="#9b9b9a"
+         id="rect5" />
+      <rect
+         x="21.125"
+         y="37.4189"
+         width="20.060699"
+         height="7.5228"
+         transform="rotate(45,31.155456,41.180312)"
+         fill="#d0cfce"
+         id="rect6" />
+    </g>
+  </g>
+  <g
+     id="line"
+     transform="translate(-12.174,-10.986777)">
+    <g
+       id="_1F529-2">
+      <rect
+         x="35.171101"
+         y="18.7696"
+         width="23.948"
+         height="11.4993"
+         transform="rotate(45,47.145099,24.519239)"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="rect7" />
+      <polyline
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="32.755 32.488 39.869 25.374 46.961 32.467 39.883 39.546"
+         id="polyline7" />
+      <polyline
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="29.642 49.786 20.556 58.873 18.527 59.126 13.175 53.774 13.174 52.069 22.375 42.868"
+         id="polyline8" />
+      <rect
+         x="21.125"
+         y="37.4189"
+         width="20.060699"
+         height="7.5228"
+         transform="rotate(45,31.155456,41.180312)"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="rect8" />
+    </g>
+  </g>
+</svg>

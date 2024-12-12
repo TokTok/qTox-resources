@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 56.278923 42.210571"
+   version="1.1"
+   sodipodi:docname="1f94f.svg"
+   width="56.278923"
+   height="42.210571"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-8.5033783,-15.063715)">
+    <ellipse
+       cx="35.999901"
+       cy="30.5"
+       rx="11.5334"
+       ry="27.881599"
+       transform="rotate(-70,35.999961,30.500026)"
+       fill="#92d3f5"
+       id="ellipse1" />
+    <path
+       fill="#61b2e4"
+       d="m 62.2,40.0361 c -2.1785,5.9856 -15.6748,6.5684 -30.1447,1.3018 -14.4699,-5.2666 -17.22,-8.3093 -14.0934,-12.5391 0.9582,-1.2961 5.2447,4.3094 21.9827,10.0928 14.5543,5.0289 24.434,-4.8411 22.2554,1.1445 z"
+       id="path1" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-8.5033783,-15.063715)">
+    <ellipse
+       cx="35.999901"
+       cy="30.5"
+       rx="6.7990999"
+       ry="21.978901"
+       transform="rotate(-69.7961,35.999935,30.500003)"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="ellipse2" />
+    <ellipse
+       cx="35.999901"
+       cy="30.5"
+       rx="11.5334"
+       ry="27.881599"
+       transform="rotate(-70,35.999961,30.500026)"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="ellipse3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 39.8023,52.363 c 2.8865,1.5925 21.926,6.78 23.98,1.8"
+       id="path3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 37.778,48.8451 c 2.3577,1.41 18.0633,6.2843 19.919,2.1969"
+       id="path4" />
+  </g>
+</svg>

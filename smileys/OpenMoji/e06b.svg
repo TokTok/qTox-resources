@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 50.096794 49.989353"
+   version="1.1"
+   sodipodi:docname="e06b.svg"
+   width="50.096794"
+   height="49.989353"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="line-supplement"
+     stroke="#000000"
+     transform="translate(-10.95281,-11.038389)">
+    <rect
+       x="6.9499998"
+       y="36"
+       rx="4.0500002"
+       ry="4.3099999"
+       width="58.099998"
+       height="29.02"
+       fill="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="3"
+       display="none"
+       id="rect1" />
+    <g
+       transform="matrix(0.8851,0,0,0.8851,-134.7,18.68)"
+       stroke-width="8"
+       id="g10">
+      <path
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         d="m 192.9,-2.429 v 22"
+         id="path1" />
+      <path
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         d="m 208.5,4.015 -15.6,15.56"
+         id="path2" />
+      <line
+         x1="214.89999"
+         x2="170.89999"
+         y1="19.57"
+         y2="19.57"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="line2" />
+      <path
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         d="M 192.9,19.57 177.3,4.01"
+         id="path3" />
+      <ellipse
+         cx="192.89999"
+         cy="42.470001"
+         rx="0.86949998"
+         ry="0.8987"
+         display="none"
+         id="ellipse3" />
+      <ellipse
+         cx="192.89999"
+         cy="-3.3280001"
+         rx="0.86949998"
+         ry="0.8987"
+         id="ellipse4" />
+      <ellipse
+         cx="150.2"
+         cy="-99.669998"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(45)"
+         display="none"
+         id="ellipse5" />
+      <ellipse
+         cx="150.2"
+         cy="-145.5"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(45)"
+         id="ellipse6" />
+      <ellipse
+         cx="19.57"
+         cy="-170"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(90)"
+         id="ellipse7" />
+      <ellipse
+         cx="19.57"
+         cy="-215.8"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(90)"
+         id="ellipse8" />
+      <ellipse
+         cx="-122.6"
+         cy="-127.3"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(135)"
+         id="ellipse9" />
+      <ellipse
+         cx="-122.6"
+         cy="-173.10001"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(135)"
+         display="none"
+         id="ellipse10" />
+    </g>
+    <g
+       transform="matrix(0.886,0,0,0.886,4.107,7.336)"
+       fill="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="3.386"
+       clip-rule="evenodd"
+       id="g12">
+      <path
+         d="m 55.64,41.53 c -1.106,-0.9832 -2.563,-1.578 -4.161,-1.578 -3.461,0 -6.27,2.807 -6.27,6.27 v 5.016 c 0,3.461 2.809,6.27 6.27,6.27 3.464,0 6.27,-2.809 6.27,-6.27 v -2.543 h -5.016"
+         id="path10" />
+      <path
+         d="M 40.61,39.95 35.594,57.51 30.578,39.95"
+         id="path11" />
+      <path
+         d="m 25.15,43.45 c -0.5138,-2 -2.735,-3.501 -5.396,-3.501 -3.043,0 -5.509,1.963 -5.509,4.386 0,2.421 2.466,4.386 5.509,4.386 l -0.1128,0.01504 c 3.043,0 5.509,1.965 5.509,4.386 0,2.424 -2.466,4.386 -5.509,4.386 -2.662,0 -4.883,-1.504 -5.396,-3.504"
+         id="path12" />
+    </g>
+  </g>
+  <g
+     id="color"
+     transform="matrix(0.8621,0,0,0.8621,-5.9828095,-6.0643892)">
+    <g
+       transform="matrix(0.8851,0,0,0.8851,-134.7,-44.62)"
+       class="UnoptimicedTransforms"
+       id="g25">
+      <path
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-width="18"
+         d="M 208.5,75.53 192.86,91.09"
+         display="none"
+         id="path13" />
+      <path
+         stroke="#000000"
+         stroke-width="18"
+         d="M 193.8,68.19 A 0.8695,0.8987 0 0 1 192.9305,69.0887 0.8695,0.8987 0 0 1 192.061,68.19 0.8695,0.8987 0 0 1 192.9305,67.2913 0.8695,0.8987 0 0 1 193.8,68.19 Z"
+         display="none"
+         id="path14" />
+      <path
+         transform="rotate(45)"
+         stroke="#000000"
+         stroke-width="18"
+         d="m 201.7,-94.9 a 0.8695,0.8987 0 0 1 -0.8695,0.8987 0.8695,0.8987 0 0 1 -0.8695,-0.8987 0.8695,0.8987 0 0 1 0.8695,-0.8987 0.8695,0.8987 0 0 1 0.8695,0.8987 z"
+         display="none"
+         id="path15" />
+      <path
+         transform="rotate(90)"
+         stroke="#000000"
+         stroke-width="18"
+         d="m 91.95,-170 a 0.8695,0.8987 0 0 1 -0.8695,0.8987 A 0.8695,0.8987 0 0 1 90.211,-170 0.8695,0.8987 0 0 1 91.0805,-170.8987 0.8695,0.8987 0 0 1 91.95,-170 Z"
+         display="none"
+         id="path16" />
+      <path
+         transform="rotate(90)"
+         stroke="#000000"
+         stroke-width="18"
+         d="m 91.95,-215.8 a 0.8695,0.8987 0 0 1 -0.8695,0.8987 0.8695,0.8987 0 0 1 -0.8695,-0.8987 0.8695,0.8987 0 0 1 0.8695,-0.8987 0.8695,0.8987 0 0 1 0.8695,0.8987 z"
+         display="none"
+         id="path17" />
+      <path
+         transform="rotate(135)"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-width="18"
+         d="m -71.13,-177.9 a 0.8695,0.8987 0 0 1 -0.8695,0.8987 0.8695,0.8987 0 0 1 -0.8695,-0.8987 0.8695,0.8987 0 0 1 0.8695,-0.8987 0.8695,0.8987 0 0 1 0.8695,0.8987 z"
+         display="none"
+         id="path18" />
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-width="18.08"
+         d="m 175.6,74.08 17.31,17"
+         display="none"
+         id="path19" />
+      <rect
+         x="141.3"
+         y="91.080002"
+         rx="3.4820001"
+         ry="3.4820001"
+         width="103.1"
+         height="38.669998"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.9999"
+         display="none"
+         id="rect19" />
+      <rect
+         x="141.3"
+         y="91.080002"
+         rx="3.4820001"
+         ry="3.4820001"
+         width="103.1"
+         height="38.669998"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.9999"
+         display="none"
+         id="rect20" />
+      <path
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-width="18"
+         d="m 192.9,69.08 -0.0404,22.01"
+         class="UnoptimicedTransforms"
+         id="path20" />
+      <path
+         stroke-linejoin="round"
+         d="m 170.9,82.08 -0.002,9 h 44 l -9.1e-4,-9 z"
+         color="#000000"
+         id="path21" />
+      <path
+         transform="matrix(1,0,0,-1,-0.0731,182.2)"
+         d="m 160.1,91.11 c 5.1e-4,5.435 4.432,9.841 9.9,9.841 5.468,0 9.902,-4.406 9.902,-9.841 z"
+         class="UnoptimicedTransforms"
+         id="path22" />
+      <path
+         transform="matrix(1,0,0,-1,45.68,182.2)"
+         d="m 160.1,91.11 c 5.1e-4,5.435 4.432,9.841 9.9,9.841 5.468,0 9.902,-4.406 9.902,-9.841 z"
+         class="UnoptimicedTransforms"
+         id="path23" />
+      <circle
+         cx="176.7"
+         cy="74.879997"
+         r="9.8299999"
+         id="circle23" />
+      <circle
+         cx="209.10001"
+         cy="74.879997"
+         r="9.8299999"
+         id="circle24" />
+      <circle
+         cx="192.89999"
+         cy="68.190002"
+         r="9.8299999"
+         id="circle25" />
+      <rect
+         x="182.10001"
+         y="80.080002"
+         rx="3.4820001"
+         ry="3.4820001"
+         width="22.559999"
+         height="3.5510001"
+         id="rect25" />
+    </g>
+    <g
+       transform="matrix(0.8851,0,0,0.8851,-134.7,18.68)"
+       fill="#f1b31c"
+       stroke="#f1b31c"
+       stroke-width="8"
+       id="g35">
+      <line
+         x1="192.89999"
+         x2="192.89999"
+         y1="-2.4289999"
+         y2="41.57"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="line25" />
+      <line
+         x1="208.5"
+         x2="177.3"
+         y1="4.0149999"
+         y2="35.130001"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="line26" />
+      <line
+         x1="214.89999"
+         x2="170.89999"
+         y1="19.57"
+         y2="19.57"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="line27" />
+      <line
+         x1="208.5"
+         x2="177.3"
+         y1="35.130001"
+         y2="4.0149999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="line28" />
+      <ellipse
+         cx="192.89999"
+         cy="42.470001"
+         rx="0.86949998"
+         ry="0.8987"
+         id="ellipse28" />
+      <ellipse
+         cx="192.89999"
+         cy="-3.3280001"
+         rx="0.86949998"
+         ry="0.8987"
+         id="ellipse29" />
+      <ellipse
+         cx="150.2"
+         cy="-99.669998"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(45)"
+         id="ellipse30" />
+      <ellipse
+         cx="150.2"
+         cy="-145.5"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(45)"
+         id="ellipse31" />
+      <ellipse
+         cx="19.57"
+         cy="-170"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(90)"
+         id="ellipse32" />
+      <ellipse
+         cx="19.57"
+         cy="-215.8"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(90)"
+         id="ellipse33" />
+      <ellipse
+         cx="-122.6"
+         cy="-127.3"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(135)"
+         id="ellipse34" />
+      <ellipse
+         cx="-122.6"
+         cy="-173.10001"
+         rx="0.86949998"
+         ry="0.8987"
+         transform="rotate(135)"
+         id="ellipse35" />
+    </g>
+    <ellipse
+       cx="56.43"
+       cy="35.93"
+       rx="4.2059999"
+       ry="4.2379999"
+       fill="#f1b31c"
+       paint-order="normal"
+       id="ellipse36" />
+    <ellipse
+       cx="15.64"
+       cy="35.93"
+       rx="4.2059999"
+       ry="4.2379999"
+       fill="#f1b31c"
+       paint-order="normal"
+       id="ellipse37" />
+    <rect
+       x="6.9499998"
+       y="36"
+       rx="4.698"
+       ry="5"
+       width="58.099998"
+       height="29.02"
+       stroke-width="1.006"
+       id="rect37" />
+    <rect
+       x="7.5240002"
+       y="35.990002"
+       rx="0"
+       ry="0"
+       width="56.939999"
+       height="12.72"
+       stroke="#000000"
+       stroke-linecap="square"
+       stroke-width="1.149"
+       id="rect38" />
+    <g
+       transform="matrix(0.886,0,0,0.886,4.107,7.336)"
+       fill="none"
+       stroke="#ffffff"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="3.386"
+       clip-rule="evenodd"
+       id="g40">
+      <path
+         d="m 55.64,41.53 c -1.106,-0.9832 -2.563,-1.578 -4.161,-1.578 -3.461,0 -6.27,2.807 -6.27,6.27 v 5.016 c 0,3.461 2.809,6.27 6.27,6.27 3.464,0 6.27,-2.809 6.27,-6.27 v -2.543 h -5.016"
+         id="path38" />
+      <path
+         d="M 40.61,39.95 35.594,57.51 30.578,39.95"
+         id="path39" />
+      <path
+         d="m 25.15,43.45 c -0.5138,-2 -2.735,-3.501 -5.396,-3.501 -3.043,0 -5.509,1.963 -5.509,4.386 0,2.421 2.466,4.386 5.509,4.386 l -0.1128,0.01504 c 3.043,0 5.509,1.965 5.509,4.386 0,2.424 -2.466,4.386 -5.509,4.386 -2.662,0 -4.883,-1.504 -5.396,-3.504"
+         id="path40" />
+    </g>
+    <ellipse
+       cx="21.610001"
+       cy="21.559999"
+       rx="4.2059999"
+       ry="4.2379999"
+       fill="#f1b31c"
+       paint-order="normal"
+       id="ellipse40" />
+    <ellipse
+       cx="36.040001"
+       cy="15.42"
+       rx="4.2059999"
+       ry="4.2379999"
+       fill="#f1b31c"
+       paint-order="normal"
+       id="ellipse41" />
+    <ellipse
+       cx="50.459999"
+       cy="21.559999"
+       rx="4.2059999"
+       ry="4.2379999"
+       fill="#f1b31c"
+       paint-order="normal"
+       id="ellipse42" />
+  </g>
+  <g
+     id="line"
+     transform="matrix(0.8621,0,0,0.8621,-5.9828095,-6.0643892)"
+     stroke="#000000">
+    <rect
+       x="6.9499998"
+       y="36"
+       rx="4.698"
+       ry="5"
+       width="58.099998"
+       height="29.02"
+       fill="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="3"
+       display="none"
+       id="rect42" />
+  </g>
+</svg>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 64 40"
+   version="1.1"
+   sodipodi:docname="1f1f2-1f1fe.svg"
+   width="64"
+   height="40"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-4,-16)">
+    <rect
+       x="5"
+       y="17"
+       width="62"
+       height="38"
+       fill="#ffffff"
+       id="rect1" />
+    <rect
+       x="5"
+       y="17"
+       width="62"
+       height="5"
+       fill="#d22f27"
+       id="rect2" />
+    <rect
+       x="5"
+       y="26"
+       width="62"
+       height="4"
+       fill="#d22f27"
+       id="rect3" />
+    <rect
+       x="5"
+       y="34"
+       width="62"
+       height="4"
+       fill="#d22f27"
+       id="rect4" />
+    <rect
+       x="5"
+       y="42"
+       width="62"
+       height="4"
+       fill="#d22f27"
+       id="rect5" />
+    <rect
+       x="5"
+       y="50"
+       width="62"
+       height="5"
+       fill="#d22f27"
+       id="rect6" />
+    <rect
+       x="5"
+       y="17"
+       width="29"
+       height="21"
+       fill="#1e50a0"
+       id="rect7" />
+    <g
+       id="g7">
+      <path
+         fill="#f1b31c"
+         stroke="#f1b31c"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         d="M 13.8446,27.5 A 6.2149,6.2149 0 0 1 19.25,21.6146 7.4868,7.4868 0 0 0 17.9527,21.5 c -3.7018,0 -6.7027,2.6863 -6.7027,6 0,3.3137 3.0009,6 6.7027,6 A 7.4868,7.4868 0 0 0 19.25,33.3854 6.2149,6.2149 0 0 1 13.8446,27.5 Z"
+         id="path7" />
+      <polygon
+         fill="#f1b31c"
+         stroke="#f1b31c"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         points="25.258,26.274 28.667,24.082 25.703,26.822 29.75,26.29 25.861,27.504 29.744,28.737 25.7,28.185 28.649,30.94 25.251,28.731 26.684,32.461 24.605,29.033 24.236,33 23.888,29.031 21.791,32.449 23.242,28.726 19.833,30.918 22.797,28.178 18.75,28.71 22.639,27.496 18.756,26.263 22.8,26.815 19.851,24.06 23.249,26.269 21.816,22.539 23.895,25.967 24.264,22 24.612,25.969 26.709,22.551 "
+         id="polygon7" />
+    </g>
+  </g>
+  <g
+     id="line"
+     transform="translate(-4,-16)">
+    <rect
+       x="5"
+       y="17"
+       width="62"
+       height="38"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect8" />
+  </g>
+</svg>

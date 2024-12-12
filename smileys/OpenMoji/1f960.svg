@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 48.257446 40.860184"
+   version="1.1"
+   sodipodi:docname="1f960.svg"
+   width="48.257446"
+   height="40.860184"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-11.730038,-16.871546)">
+    <rect
+       x="17.3962"
+       y="28.2404"
+       width="8.5368996"
+       height="17.184299"
+       transform="matrix(0.5359,-0.8443,0.8443,0.5359,-21.0425,35.3858)"
+       fill="#d0cfce"
+       id="rect1" />
+    <path
+       fill="#fcea2b"
+       d="m 38.0889,37.0473 a 25.4023,25.4023 0 0 0 -5.68,1.2274 29.259,29.259 0 0 0 -10.8,7.09 l -0.005,0.0055 c -0.0782,0.0857 -0.236,0.26 -0.242,0.269 a 14.5063,14.5063 0 0 0 2.3722,2.8561 19.3988,19.3988 0 1 0 1.7887,-24.5453 20.1316,20.1316 0 0 0 -4.1612,4.5053 c 0.006,0.0091 0.1638,0.1832 0.242,0.269 l 0.005,0.0055 A 43.3575,43.3575 0 0 0 33,37"
+       id="path1" />
+    <path
+       fill="#f1b31c"
+       d="m 49.8957,20.9907 a 19.2835,19.2835 0 0 0 -12.2606,-2.9385 19.1877,19.1877 0 0 1 8.5782,2.9385 19.3518,19.3518 0 0 1 -8.668,35.6183 19.3707,19.3707 0 0 0 12.35,-35.6183 z"
+       id="path2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-11.730038,-16.871546)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 38.0889,37.0473 a 25.4023,25.4023 0 0 0 -5.68,1.2274 29.259,29.259 0 0 0 -10.8,7.09 l -0.005,0.0055 c -0.0782,0.0857 -0.236,0.26 -0.242,0.269 a 14.5063,14.5063 0 0 0 2.3722,2.8561 19.3988,19.3988 0 1 0 1.7887,-24.5453 20.1316,20.1316 0 0 0 -4.1612,4.5053 c 0.006,0.0091 0.1638,0.1832 0.242,0.269 l 0.005,0.0055 C 26.1318,33.6782 34,37 34,37"
+       id="path3" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="17.847 38.124 12.73 34.876 16.116 29.541 24.294 34.732"
+       id="polyline3" />
+  </g>
+</svg>

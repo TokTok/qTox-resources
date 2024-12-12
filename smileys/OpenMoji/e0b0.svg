@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 59.972099 41.536201"
+   version="1.1"
+   sodipodi:docname="e0b0.svg"
+   width="59.972099"
+   height="41.536201"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-6.0279,-15.463799)">
+    <path
+       fill="#fcea2b"
+       d="M 18.3219,26.6717 C 18.2599,25.0824 16.9702,23.8166 15.38,23.7843 H 11.187 C 9.5969,23.8168 8.3075,25.0825 8.2454,26.6717 L 7.6919,40.2574 c -0.0048,0.1069 -0.0337,0.2113 -0.0845,0.3054 l 2.05,-1.4637 -0.4985,15.4685 c -0.0226,0.2196 0.0399,0.4395 0.1748,0.6143 0.0262,0.0336 0.0641,0.0561 0.1062,0.0629 0.1495,0 0.4585,-0.2982 0.5137,-0.7865 l 2.0257,-15.7271 c 0.0579,-0.2886 0.1525,-0.5687 0.2815,-0.8333 l 0.5065,-0.5627 h 1.1356 l 0.6877,0.4355 c 0.1258,0.2993 0.2086,0.6149 0.246,0.9374 l 1.7765,15.7488 c 0.0552,0.4876 0.3648,0.7865 0.5144,0.7865 0.0421,-0.0068 0.08,-0.0293 0.1062,-0.0629 0.1344,-0.1735 0.3421,-0.4089 0.3193,-0.629 l -0.6515,-15.4522 2.4456,1.6981"
+       id="path1" />
+    <circle
+       cx="13.3395"
+       cy="18.538799"
+       r="2.075"
+       fill="#fcea2b"
+       id="circle1" />
+    <path
+       fill="#fcea2b"
+       d="m 63.7651,27.1356 c -0.062,-1.5892 -1.3515,-2.8549 -2.9416,-2.8874 H 56.63 c -1.5901,0.0324 -2.8796,1.2982 -2.9416,2.8874 l -0.5535,13.5857 c -0.0048,0.1068 -0.0337,0.2112 -0.0845,0.3053 l 2.05,-1.4636 -0.4988,15.4685 c -0.0226,0.2196 0.0399,0.4395 0.1748,0.6142 0.0261,0.0337 0.0641,0.0562 0.1062,0.0629 0.15,0 0.4584,-0.2981 0.5137,-0.7865 L 57.4225,39.195 c 0.0579,-0.2886 0.1525,-0.5686 0.2815,-0.8332 l 0.5065,-0.5627 h 1.1356 l 0.6877,0.4354 c 0.1258,0.2993 0.2086,0.6149 0.246,0.9374 l 1.7765,15.7488 c 0.0552,0.4877 0.3648,0.7865 0.5144,0.7865 0.0421,-0.0068 0.08,-0.0293 0.1062,-0.0629 0.1343,-0.1735 0.3421,-0.4088 0.3193,-0.629 L 62.3447,39.5631 64.79,41.2612"
+       id="path2" />
+    <circle
+       cx="58.7827"
+       cy="19.002701"
+       r="2.075"
+       fill="#fcea2b"
+       id="circle2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-6.0279,-15.463799)">
+    <g
+       id="line-2">
+      <g
+         id="Standing_Man">
+        <g
+           id="line-2-2">
+          <circle
+             cx="13.3395"
+             cy="18.538799"
+             r="2.075"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             stroke-width="2"
+             id="circle3" />
+          <path
+             fill="none"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="m 16.81,27.5809 1.3279,26.5575 c 0.0384,0.7688 -0.4019,1.3977 -0.9785,1.3977 -0.6824,-0.1154 -1.1883,-0.6968 -1.2083,-1.3886 L 14.1747,38.75 c -0.09,-0.7638 -0.4745,-1.3886 -0.8589,-1.3886 -0.3844,0 -0.7709,0.6248 -0.8589,1.3886 l -1.7745,15.3975 c -0.02,0.6918 -0.5259,1.2732 -1.2083,1.3886 -0.5766,0 -1.0169,-0.629 -0.9785,-1.3977 L 9.8235,27.5809"
+             id="path3" />
+          <path
+             fill="none"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="M 7.0279,40.1608 7.5814,26.8821 c 0.101,-1.9429 1.6946,-3.4728 3.64,-3.4944 h 4.1933"
+             id="path4" />
+        </g>
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 15.3635,23.3876 c 1.9454,0.0217 3.539,1.5515 3.64,3.4944 l 0.5535,13.2787"
+           id="path5" />
+      </g>
+    </g>
+    <g
+       id="line-3">
+      <g
+         id="Standing_Man-2">
+        <g
+           id="line-2-3">
+          <circle
+             cx="58.7827"
+             cy="19.002701"
+             r="2.075"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             stroke-width="2"
+             id="circle5" />
+          <path
+             fill="none"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="m 62.2534,28.0448 1.3279,26.5574 C 63.62,55.371 63.1794,56 62.6028,56 61.9204,55.8846 61.4145,55.3032 61.3945,54.6113 l -1.7766,-15.397 c -0.09,-0.7639 -0.4745,-1.3887 -0.8589,-1.3887 -0.3844,0 -0.7709,0.6248 -0.8589,1.3887 l -1.7745,15.397 c -0.02,0.6918 -0.5259,1.2733 -1.2083,1.3887 -0.5766,0 -1.0169,-0.629 -0.9785,-1.3978 l 1.3279,-26.5574"
+             id="path6" />
+          <path
+             fill="none"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="m 52.4711,40.6246 0.5535,-13.2787 c 0.101,-1.9429 1.6946,-3.4727 3.64,-3.4944 h 4.1933"
+             id="path7" />
+        </g>
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 60.8067,23.8514 c 1.9454,0.0217 3.539,1.5515 3.64,3.4944 L 65,40.6246"
+           id="path8" />
+      </g>
+    </g>
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="40.5327 30.204 45.9135 35.5848 27.0632 35.5848 32.4441 30.1508"
+       id="polyline8" />
+    <line
+       x1="45.966301"
+       x2="40.691101"
+       y1="35.627998"
+       y2="40.903198"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="27.115999"
+       x2="32.356098"
+       y1="35.627998"
+       y2="40.868099"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line9" />
+  </g>
+</svg>

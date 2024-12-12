@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 56 48"
+   version="1.1"
+   sodipodi:docname="1f6c4.svg"
+   width="56"
+   height="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-8.0000004,-12)">
+    <rect
+       x="43"
+       y="21"
+       width="18"
+       height="33"
+       fill="#61b2e4"
+       id="rect1" />
+    <rect
+       x="11"
+       y="21"
+       width="32"
+       height="33"
+       fill="#92d3f5"
+       id="rect2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-8.0000004,-12)">
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="17 21.552 11.343 21.552 11.343 53.313 17 53.313"
+       id="polyline2" />
+    <rect
+       x="17.194"
+       y="21.5522"
+       width="37.6119"
+       height="31.7612"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect3" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="55.138 21.517 60.798 21.568 60.515 53.328 54.855 53.277"
+       id="polyline3" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="45 21.552 54.657 21.552 54.657 53.313 45 53.313"
+       id="polyline4" />
+    <circle
+       cx="15.5224"
+       cy="58.3284"
+       r="1.6716"
+       id="circle4" />
+    <circle
+       cx="9.6716003"
+       cy="58.3284"
+       r="1.6716"
+       id="circle5" />
+    <circle
+       cx="62.3284"
+       cy="58.3284"
+       r="1.6716"
+       id="circle6" />
+    <circle
+       cx="56.4776"
+       cy="58.3284"
+       r="1.6716"
+       id="circle7" />
+    <circle
+       cx="50.6269"
+       cy="58.3284"
+       r="1.6716"
+       id="circle8" />
+    <circle
+       cx="44.7761"
+       cy="58.3284"
+       r="1.6716"
+       id="circle9" />
+    <circle
+       cx="38.9254"
+       cy="58.3284"
+       r="1.6716"
+       id="circle10" />
+    <circle
+       cx="33.0746"
+       cy="58.3284"
+       r="1.6716"
+       id="circle11" />
+    <circle
+       cx="27.2239"
+       cy="58.3284"
+       r="1.6716"
+       id="circle12" />
+    <circle
+       cx="21.3731"
+       cy="58.3284"
+       r="1.6716"
+       id="circle13" />
+    <g
+       id="g14">
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 28,21 v -4 c 0,0 0,-4 4.7143,-4 H 39"
+         id="path13" />
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 44,21 v -4 c 0,0 0,-4 -4.7143,-4 H 33"
+         id="path14" />
+    </g>
+  </g>
+</svg>

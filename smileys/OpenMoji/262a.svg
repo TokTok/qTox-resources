@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 49.329586 52"
+   version="1.1"
+   sodipodi:docname="262a.svg"
+   width="49.329586"
+   height="52"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-10,-10)">
+    <path
+       fill="#b399c8"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 45.0001,57 c 1.9749,0 3.9,-0.275 5.7124,-0.8 C 46.5875,59.2249 41.5,61 36,61 22.1876,61 11,49.8125 11,36 11,22.1875 22.1876,11 36,11 41.5,11 46.5875,12.775 50.7125,15.8 48.9001,15.275 46.975,15 45.0001,15 33.4001,15 24,24.4 24,36 c 0,11.6 9.4001,21 21.0001,21 z"
+       id="path1" />
+    <polygon
+       fill="#b399c8"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="58.3297,33.4741 54.4907,37.2162 55.397,42.5 50.6518,40.0053 45.9066,42.5 46.8129,37.2162 42.9739,33.4741 48.2792,32.7032 50.6518,27.8958 53.0244,32.7032 "
+       id="polygon1" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-10,-10)" />
+  <g
+     id="skin"
+     transform="translate(-10,-10)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-10,-10)" />
+  <g
+     id="line"
+     transform="translate(-10,-10)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 45.0001,57 c 1.9749,0 3.9,-0.275 5.7124,-0.8 C 46.5875,59.2249 41.5,61 36,61 22.1876,61 11,49.8125 11,36 11,22.1875 22.1876,11 36,11 41.5,11 46.5875,12.775 50.7125,15.8 48.9001,15.275 46.975,15 45.0001,15 33.4001,15 24,24.4 24,36 c 0,11.6 9.4001,21 21.0001,21 z"
+       id="path2" />
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="58.3297,33.4741 54.4907,37.2162 55.397,42.5 50.6518,40.0053 45.9066,42.5 46.8129,37.2162 42.9739,33.4741 48.2792,32.7032 50.6518,27.8958 53.0244,32.7032 "
+       id="polygon2" />
+  </g>
+</svg>

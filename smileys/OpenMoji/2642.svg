@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 43.976135 43.976234"
+   version="1.1"
+   sodipodi:docname="2642.svg"
+   width="43.976135"
+   height="43.976234"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-11.761865,-13.9214)">
+    <circle
+       cx="27.839001"
+       cy="42.034801"
+       r="11.8699"
+       fill="#ffffff"
+       id="circle1" />
+    <path
+       fill="#9b9b9a"
+       d="m 40.0944,33.0963 0.9439,-0.9438 7.5124,-7.5121 1.3506,-1.3432 V 36.0217 L 54.851,31.072 V 14.8084 H 38.5877 l -4.9497,4.9497 h 12.7278 l -0.0836,0.0835 -0.4706,0.4706 -8.4264,8.4268 -0.8243,0.8243 c -5.858,-4.1749 -14.0433,-3.6346 -19.2989,1.621 -5.8579,5.8579 -5.8579,15.3553 0,21.2132 5.8578,5.8578 15.3553,5.8579 21.2132,0 5.2562,-5.2562 5.796,-13.443 1.6192,-19.3012 z M 20.7663,48.8932 c -3.9052,-3.9052 -3.9052,-10.2369 0,-14.1421 3.9052,-3.9052 10.2369,-3.9052 14.1421,0 3.9052,3.9052 3.9052,10.2369 0,14.1421 -3.9052,3.9052 -10.2369,3.9052 -14.1421,0 z"
+       id="path1" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-11.761865,-13.9214)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 54.7381,14.9214 H 38.4746 l -4.9497,4.9497 h 12.7279 l -0.0835,0.0835 -0.4707,0.4707 -8.4264,8.4267 -0.8243,0.8243 c -5.858,-4.1749 -14.0433,-3.6346 -19.2989,1.621 -5.8579,5.8579 -5.8579,15.3553 0,21.2132 5.8579,5.8579 15.3553,5.8579 21.2132,0 5.2563,-5.2563 5.7961,-13.4431 1.6193,-19.3013 l 0.9439,-0.9439 7.5124,-7.5121 1.3505,-1.3433 v 12.7245 l 4.9497,-4.9497 v -16.2633 0 z"
+       id="path2" />
+    <circle
+       cx="27.754999"
+       cy="41.9039"
+       r="9.9998999"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle2" />
+  </g>
+</svg>

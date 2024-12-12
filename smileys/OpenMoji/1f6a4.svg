@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 64 36.419445"
+   version="1.1"
+   sodipodi:docname="1f6a4.svg"
+   width="64"
+   height="36.419445"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-4,-32.580553)">
+    <path
+       fill="#ffffff"
+       d="m 25.7191,37.219 c 0,0 -18.6574,0.1092 -18.8835,3.2051 -0.226,3.0959 12.1477,8.6395 12.1477,8.6395 0,0 0.7809,0.7927 11.6472,1.303 10.8662,0.5103 28.1411,1.0924 28.1411,1.0924 l 4.6809,-4.3851 c 0.088,-0.0825 0.1418,-0.2035 0.1476,-0.3325 l 0.0661,-1.4563 c 0.0099,-0.2177 -0.1173,-0.4093 -0.3023,-0.4554 l -1.9028,-0.4743 -5.017,-3.2687 C 56.3982,41.0568 56.3473,41.038 56.2945,41.0314 Z"
+       id="path1" />
+    <path
+       fill="#92d3f5"
+       d="m 45.7345,39.7147 c 0,0 -6.8479,-5.3894 -15.0213,-6.2024 -0.0867,-0.0086 -0.1747,0.0159 -0.2494,0.0692 l -5.1414,3.6651 z"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#ea5a47"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.8603"
+       d="m 13.8717,41.0478 c 0,0 24.9872,2.43 42.3914,5.4447"
+       id="path3" />
+    <path
+       fill="#92d3f5"
+       d="M 68,47 V 69 H 4 V 47 h 1 c 3,0 9,3 15,3 6,0 10,-3 16,-3 6,0 11,3 16,3 5,0 7,-3 15,-3 z"
+       id="path4" />
+    <polyline
+       fill="none"
+       points="68,39.0208 68,55.0208 4,55.0208 4,39.0208"
+       id="polyline4" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-4,-32.580553)" />
+  <g
+     id="skin"
+     transform="translate(-4,-32.580553)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-4,-32.580553)" />
+  <g
+     id="line"
+     transform="translate(-4,-32.580553)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.8603"
+       d="m 63.4525,47.0739 c 0.088,-0.0825 0.1418,-0.2035 0.1476,-0.3325 l 0.0661,-1.4563 c 0.0099,-0.2177 -0.1173,-0.4093 -0.3023,-0.4554 l -1.9028,-0.4743 -5.017,-3.2687 C 56.3982,41.0568 56.3473,41.038 56.2945,41.0314 L 25.7191,37.219 c 0,0 -18.6574,0.1092 -18.8835,3.2051 -0.226,3.0959 12.1477,8.6395 12.1477,8.6395 0,0 0.3095,0.3142 3.25,0.6743"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.8603"
+       d="m 45.7345,39.7147 c 0,0 -6.8479,-5.3894 -15.0213,-6.2024 -0.0867,-0.0086 -0.1747,0.0159 -0.2494,0.0692 l -5.1414,3.6651 z"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 5,47 c 3,0 9,3 15,3 6,0 10,-3 16,-3 6,0 11,3 16,3 5,0 7,-3 15,-3"
+       id="path7" />
+  </g>
+</svg>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 34.563999 57.040802"
+   version="1.1"
+   sodipodi:docname="e214.svg"
+   width="34.563999"
+   height="57.040802"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-18.718,-7.5451996)">
+    <rect
+       x="33.743"
+       y="46.191299"
+       width="13.7583"
+       height="13.7864"
+       fill="#ffffff"
+       id="rect1" />
+    <rect
+       x="24.9797"
+       y="20.0937"
+       width="15.1147"
+       height="7.1350002"
+       fill="#ffffff"
+       id="rect2" />
+    <circle
+       cx="44.331699"
+       cy="11.4161"
+       r="2.8708999"
+       fill="#fcea2b"
+       id="circle2" />
+    <path
+       fill="#fcea2b"
+       d="M 37.9166,33.1726 H 25.323 c -1.4613,0 -1.8556,-1.59 -1.8556,-2.7749 0,-0.5527 2.6816,-0.98 3.2343,-0.98 h 12.2876 c 0.5527,0 -0.0727,2.2017 -0.0727,2.7544 6e-4,0.552 -0.4463,0.9999 -0.9983,1.0005 z"
+       id="path2" />
+    <path
+       fill="#fcea2b"
+       d="m 48.4893,21.9756 c -0.1006,-2.8745 -1.8008,-4.8184 -4.3672,-4.9541 -2.6638,-0.0505 -4.962,1.8596 -5.3994,4.4878 l -0.8916,5.9858 v 0.0034 l -1.127,7.7525 -4.2568,0.001 -2.6045,0.1406 c -1.2357,0.13 -2.4276,0.5304 -3.4912,1.1728 -1.7325,0.9833 -2.7701,2.8524 -2.6885,4.8428 l 0.332,15.9414 c 0,1.3027 0,4.0147 2.4141,4.0147 1.6448,0.1146 3.1116,-1.0285 3.4023,-2.6514 L 31.665,42.7041 44.7227,42.6787 c 2.0506,-0.0147 3.719,-1.655 3.7685,-3.7051 z"
+       id="path3" />
+    <line
+       x1="47.057598"
+       x2="47.057598"
+       y1="45.209202"
+       y2="60.958302"
+       fill="none"
+       stroke="#9b9b9a"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line3" />
+    <line
+       x1="34.549198"
+       x2="34.549198"
+       y1="45.209202"
+       y2="60.958302"
+       fill="none"
+       stroke="#9b9b9a"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <polygon
+       fill="#9b9b9a"
+       points="50.529,45.038 31.342,45.209 31.342,41.822 47.031,40.668 47.44,25.417 51.12,25.178 "
+       id="polygon4" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-18.718,-7.5451996)">
+    <circle
+       cx="44.331699"
+       cy="11.4161"
+       r="2.8708999"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="43.551 22.011 41.461 34.982 32.501 26.129"
+       id="polyline4" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 31.882,41.6749 c -0.6095,0.0013 -1.1032,0.495 -1.1045,1.1045 v 1.3254 c 0.0403,0.5925 0.512,1.0642 1.1045,1.1044 H 49.9955 C 50.588,45.169 51.0597,44.6973 51.1,44.1048 V 25.86 c -0.0013,-0.6095 -0.495,-1.1032 -1.1045,-1.1045 l -1.86,0.0208 c -0.5522,0 -0.463,0.4766 -0.463,1.1392 l -0.1814,15.7463 z"
+       id="path4" />
+    <line
+       x1="32.050301"
+       x2="24.467699"
+       y1="30.397699"
+       y2="30.397699"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line5" />
+    <line
+       x1="48.862598"
+       x2="48.862598"
+       y1="45.209202"
+       y2="60.958302"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="32.694401"
+       x2="32.694401"
+       y1="45.209202"
+       y2="60.604301"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line7" />
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="26.462,26.892 22.804,26.892 24.597,21.184 "
+       id="polygon7" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 20.3976,18.8818 c 0.955,1.3907 2.5139,2.2451 4.2,2.3018 0,0 3.1633,0 4.2713,-2.3018"
+       id="path7" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="19.718 63.586 19.718 60.958 52.282 60.958 52.282 63.586"
+       id="polyline7" />
+    <line
+       x1="34.149799"
+       x2="40.601501"
+       y1="15.2733"
+       y2="60.958302"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 38.82,27.6428 0.8914,-5.9863 c 0.3711,-2.1276 2.2347,-3.6693 4.3942,-3.6351 v 0 c 2.1617,0.1147 3.3076,1.826 3.3846,3.9895 l 8e-4,16.9628 c -0.0349,1.5041 -1.2644,2.7052 -2.7689,2.7049 H 39.905 l -9.1318,0.0285 -1.9552,16.89 c -0.223,1.3732 -0.9265,2.361 -2.041,2.361 -1.2263,-0.0331 -2.1937,-1.054 -2.1606,-2.2804 0.002,-0.0728 0.0075,-0.1455 0.0166,-0.2177 V 41.3448 c 0,-2.9821 2.41,-5.094 5.7969,-5.094 h 2.0712"
+       id="path8" />
+    <line
+       x1="24.632999"
+       x2="24.632999"
+       y1="23.368"
+       y2="26.2236"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line9" />
+    <circle
+       cx="24.632999"
+       cy="17.2251"
+       r="0.65350002"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle9" />
+  </g>
+</svg>

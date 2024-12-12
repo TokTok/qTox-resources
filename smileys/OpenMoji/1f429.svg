@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 51.042942 52.132607"
+   version="1.1"
+   sodipodi:docname="1f429.svg"
+   width="51.042942"
+   height="52.132607"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-9.0000244,-9.8645919)">
+    <path
+       fill="#9b9b9a"
+       d="m 54.1176,53.1541 c -7e-4,0.4136 0.5,7.6026 -0.98,-14.7059 -0.0586,-0.8818 -1.3818,-3.5748 -0.98,-4.902 0.7359,-2.4335 3.8378,-1.5845 3.9215,-10.7843 h -2.9418 l -1.9608,7.8432 c 0,0 -5.8824,0 -7.8432,-0.98 -1.9608,-0.98 -7.8431,0.98 -7.8431,0.98 0,0 4.902,3.9215 1.9608,11.7647 -0.278,0.4682 6.4944,-0.97 7.8431,0 1.9984,1.437 4.4252,11.2518 4.902,10.7843 z"
+       id="path1" />
+    <ellipse
+       cx="54.6078"
+       cy="19.3305"
+       rx="5.3922"
+       ry="4.4117999"
+       fill="#d0cfce"
+       id="ellipse1" />
+    <polyline
+       fill="#9b9b9a"
+       points="10 18.84 17.843 17.86 20.784 18.84 20.784 23.742 17.621 23.742 10.98 22.762 10 18.84"
+       id="polyline1" />
+    <path
+       fill="#d0cfce"
+       d="m 19.8039,23.7423 c 0,0 -4.9019,8.8235 -2.9412,13.7255 1.9607,4.902 6.8628,11.7647 16.6667,8.8235 C 43.3333,43.3501 35.49,24.7227 35.49,24.7227 l -0.98,-4.902 c 0,0 -2.9412,-8.8235 -6.8627,-8.8235 -3.9215,0 -7.8432,0.98 -8.8236,3.9216 -0.9804,2.9416 0.9802,8.8235 0.9802,8.8235 z"
+       id="path2" />
+    <polygon
+       fill="#9b9b9a"
+       points="22.745,60.997 30.588,60.997 30.588,56.095 26.667,56.784 22.745,58.056 "
+       id="polygon2" />
+    <polygon
+       fill="#9b9b9a"
+       points="47.255,60.997 55.098,60.997 55.098,56.095 51.176,56.784 47.255,58.056 "
+       id="polygon3" />
+    <polygon
+       fill="#9b9b9a"
+       points="29.412,52.174 25.882,52.174 24.706,46.291 30.588,46.291 "
+       id="polygon4" />
+    <ellipse
+       cx="28.1373"
+       cy="54.134499"
+       rx="4.4117999"
+       ry="2.9412"
+       fill="#d0cfce"
+       id="ellipse4" />
+    <ellipse
+       cx="52.156898"
+       cy="54.134499"
+       rx="3.9216001"
+       ry="2.9412"
+       fill="#d0cfce"
+       id="ellipse5" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-9.0000244,-9.8645919)">
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="49.447 51.455 45.237 41.911 41.373 41.389"
+       id="polyline5" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 59.02,19.8207 c 0.3977,-5.3988 -4.4057,-4.9472 -5.8823,-4.9019 0,0 -3.9216,0 -3.9216,3.9215 0,3.9215 3.9216,4.902 3.9216,4.902 0,5.8824 -3.9216,7.8431 -3.9216,7.8431 0.2419,0.0071 -7.9453,-1.9351 -11.7647,-0.98 L 34.51,24.7227 c 0,0.98 -0.98,-4.902 -0.98,-4.902 -1.9608,-10.7843 -8.8235,-8.8235 -8.8235,-8.8235 -5.8824,0 -6.8628,6.8628 -6.8628,6.8628 L 10,18.84 l 0.98,3.9216 7.8431,0.98 C 13.9216,34.5266 16.49,44.9 25.6863,46.2913 c 0,0 7.8431,1.9608 11.7647,-3.9215 a 11.8954,11.8954 0 0 0 0.98,-4.902"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.7059,18.84 c -0.2975,0.7806 -3.92,19.4774 7.8431,9.804"
+       id="path6" />
+    <line
+       x1="52.961201"
+       x2="52.156898"
+       y1="50.512901"
+       y2="38.4482"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 31.5686,54.1345 c 0,1.6243 -1.7557,2.9411 -3.9215,2.9411 -2.1658,0 -3.9216,-1.3168 -3.9216,-2.9411 a 3.0663,3.0663 0 0 1 2.3951,-2.71 5.0572,5.0572 0 0 1 1.5265,-0.2311 c 2.1658,-10e-5 3.9215,1.3166 3.9215,2.9411 z"
+       id="path7" />
+    <line
+       x1="29.545099"
+       x2="29.6078"
+       y1="51.193298"
+       y2="47.271702"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line7" />
+    <line
+       x1="25.6863"
+       x2="24.7059"
+       y1="51.193298"
+       y2="46.291302"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.986,57.0756 c -1.0981,0.2352 -2.2409,0.9422 -2.2409,1.9608 v 1.9608 h 7.8431 v -4.2135"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 49.4958,57.0756 c -1.0981,0.2352 -2.2409,0.9422 -2.2409,1.9608 v 1.9608 h 7.8431 v -4.2135"
+       id="path9" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 56.0784,54.1345 c 0,1.6243 -1.7557,2.9411 -3.9215,2.9411 -2.1658,0 -3.9216,-1.3168 -3.9216,-2.9411 a 3.0663,3.0663 0 0 1 2.3951,-2.71 5.0572,5.0572 0 0 1 1.5265,-0.2311 5.2219,5.2219 0 0 1 0.79,0.06 c 1.7873,0.2739 3.1315,1.4597 3.1315,2.8811 z"
+       id="path10" />
+  </g>
+</svg>

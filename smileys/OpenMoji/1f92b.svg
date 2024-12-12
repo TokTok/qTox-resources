@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 48.034454 51.969654"
+   version="1.1"
+   sodipodi:docname="1f92b.svg"
+   width="48.034454"
+   height="51.969654"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-11.982772,-11.782772)">
+    <circle
+       cx="36"
+       cy="35.799999"
+       r="23"
+       fill="none"
+       stroke="#fcea2b"
+       stroke-miterlimit="10"
+       stroke-width="1.8"
+       id="circle1" />
+    <path
+       fill="#fcea2b"
+       d="m 46.8,56.3 c 11.3,-6 15.7,-20.2 9.7,-31.5 -6,-11.3 -20,-15.5 -31.3,-9.5 -11.3,6 -15.5,20 -9.5,31.3 2.3,4.2 5.8,7.7 10.1,9.8 0,1.6 0.7,3.2 1.8,4.4 1.4,1.6 8.5,3.3 12.2,-0.2 1.1,-1 7.3,-4.2 7,-4.3 z"
+       id="path1" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-11.982772,-11.782772)" />
+  <g
+     id="skin"
+     transform="translate(-11.982772,-11.782772)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-11.982772,-11.782772)" />
+  <g
+     id="line"
+     transform="translate(-11.982772,-11.782772)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 51.5,52.8 C 60.9,44.2 61.6,29.7 53,20.3 44.4,10.9 29.9,10.2 20.5,18.8 11.1,27.4 10.4,41.9 19,51.3 c 0.9,0.9 1.8,1.8 2.8,2.6"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 21.4,23.6 c 0.7,-1.4 1.9,-2.4 3.3,-2.9 C 26,20 27.6,19.9 29,20.3"
+       id="path3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 50.7,23.6 c -1.5,-2.7 -4.6,-4 -7.6,-3.3"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 34,41.5 C 32.6,41.3 31.2,40.8 30,40"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 42.1,40 c -1.3,0.7 -2.7,1.2 -4.2,1.5"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 37.8,38.6 c 0,-1 -0.9,-1.9 -1.9,-1.9 -1,0 -1.9,0.9 -1.9,1.9"
+       id="path7" />
+    <line
+       x1="34"
+       x2="34"
+       y1="47.400002"
+       y2="38.599998"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line7" />
+    <line
+       x1="37.799999"
+       x2="37.799999"
+       y1="38.599998"
+       y2="47.5"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 37.2,47.4 c 1.7,0 3,1.3 3,3 v 0 c 0,0.6 0,1.8 0,1.8 0.3,0 3,0 4.1,0 1.3,-0.1 2.5,0.7 2.8,2 0.3,1.3 -0.3,2.6 -1.4,3.2 -0.5,0.3 -1.1,0.6 -1.6,0.9 -2,1.1 -4.1,2.2 -6.2,3.3 -1.9,1 -4,1.4 -6.1,1 -3.6,-0.6 -6,-4 -5.4,-7.7 0.2,-1.5 0.5,-3 1,-4.4 0.6,-1.8 2.3,-3.1 4.2,-3.1 z"
+       id="path8" />
+    <path
+       d="m 30,27.8 c 0,1.7 -1.3,3 -3,3 -1.7,0 -3,-1.3 -3,-3 0,-1.7 1.3,-3 3,-3 v 0 c 1.6,0 3,1.3 3,2.9 0,0 0,0.1 0,0.1"
+       id="path9" />
+    <path
+       d="m 48,27.8 c 0,1.7 -1.3,3 -3,3 -1.7,0 -3,-1.3 -3,-3 0,-1.7 1.3,-3 3,-3 v 0 c 1.6,0 3,1.3 3,2.9 0,0 0,0.1 0,0.1"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 36.2,51.8 c -1.3,0 -2,0.7 -2.5,1.5 -0.6,0.9 0,2.2 1,2.2 H 39 c 0.7,0 1.2,-0.6 1.2,-1.4 v -1.8 -0.1"
+       id="path11" />
+  </g>
+</svg>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 49.896999 49.8969"
+   version="1.1"
+   sodipodi:docname="1f4c9.svg"
+   width="49.896999"
+   height="49.8969"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-11.0515,-11.0154)">
+    <path
+       fill="#ffffff"
+       d="m 12.05,59.91 h 47.9 v -47.9 h -47.9 z"
+       id="path1" />
+    <path
+       fill="#92d3f5"
+       stroke="none"
+       d="m 31.2379,28.4166 -6.8898,-8.6812 -2.8384,2.5491 8.7131,11.7972 6.5938,-3.5617 c 0.1425,-0.0713 11.2762,21.2218 11.2762,21.2218 l 3.397,-1.4527 -12.4352,-25.0843 c 0,0 -7.5277,3.5956 -7.8167,3.2118 z"
+       id="path2" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-11.0515,-11.0154)" />
+  <g
+     id="skin"
+     transform="translate(-11.0515,-11.0154)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-11.0515,-11.0154)" />
+  <g
+     id="line"
+     transform="translate(-11.0515,-11.0154)">
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="29.9089,34.2373 21.1514,22.14 24.3481,19.7354 31.358,29.0544 35.4843,27.0088 35.4708,26.9815 39.0546,25.2048 51.4898,50.2891 47.9061,52.0658 37.261,30.5927 "
+       id="polygon2" />
+    <rect
+       x="12.0515"
+       y="12.0154"
+       width="47.896999"
+       height="47.8969"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect2" />
+    <line
+       x1="51.839199"
+       x2="59.805099"
+       y1="36.084999"
+       y2="36.084999"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line2" />
+    <line
+       x1="12.739"
+       x2="26.039499"
+       y1="36.084999"
+       y2="36.084999"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line3" />
+    <line
+       x1="55.207401"
+       x2="59.682899"
+       y1="47.992802"
+       y2="47.992802"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="12.739"
+       x2="41.360901"
+       y1="47.992802"
+       y2="47.992802"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line5" />
+    <line
+       x1="48.233898"
+       x2="48.2509"
+       y1="56.080502"
+       y2="59.370399"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="48.033001"
+       x2="48.152699"
+       y1="12.0588"
+       y2="34.504501"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line7" />
+    <line
+       x1="36.183701"
+       x2="36.183701"
+       y1="38.182499"
+       y2="59.5732"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="36.183701"
+       x2="36.183701"
+       y1="12.3297"
+       y2="22.2845"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line9" />
+    <line
+       x1="24.2253"
+       x2="24.2253"
+       y1="33.301601"
+       y2="59.5732"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <line
+       x1="24.2253"
+       x2="24.2253"
+       y1="12.1204"
+       y2="15.6523"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line11" />
+    <line
+       x1="43.255199"
+       x2="59.226101"
+       y1="24.1772"
+       y2="24.1772"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+    <line
+       x1="12.2635"
+       x2="17.551901"
+       y1="24.1772"
+       y2="24.1772"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line13" />
+  </g>
+</svg>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 52.0424 52.042099"
+   version="1.1"
+   sodipodi:docname="1fa9f.svg"
+   width="52.0424"
+   height="52.042099"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="line-supplement"
+     transform="translate(-9.9576,-9.9579)">
+    <line
+       x1="35.900398"
+       x2="35.900398"
+       y1="14.7127"
+       y2="57.167599"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0249"
+       id="line1" />
+    <line
+       x1="14.7206"
+       x2="57.2826"
+       y1="35.958302"
+       y2="35.958302"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0249"
+       id="line2" />
+  </g>
+  <g
+     id="color"
+     transform="translate(-9.9576,-9.9579)">
+    <rect
+       x="14.513"
+       y="14.6126"
+       rx="0.7841"
+       width="42.774899"
+       height="42.774899"
+       fill="#92d3f5"
+       id="rect2" />
+    <polygon
+       fill="#ffffff"
+       points="55.23,14.613 14.514,55.477 14.535,26.666 26.588,14.613 "
+       id="polygon2" />
+    <path
+       fill="#a57939"
+       d="M 60.94,62 H 11.0176 a 1.06,1.06 0 0 1 -1.06,-1.06 V 11.0179 a 1.06,1.06 0 0 1 1.06,-1.06 H 60.94 a 1.06,1.06 0 0 1 1.06,1.06 V 60.94 A 1.06,1.06 0 0 1 60.94,62 Z M 16.5733,56.3877 H 55.228 a 1.06,1.06 0 0 0 1.06,-1.06 V 16.6722 a 1.06,1.06 0 0 0 -1.06,-1.06 H 16.5733 a 1.06,1.06 0 0 0 -1.06,1.06 v 38.6556 a 1.06,1.06 0 0 0 1.06,1.0599 z"
+       id="path2" />
+    <line
+       x1="35.900398"
+       x2="35.900398"
+       y1="14.6126"
+       y2="57.387402"
+       fill="none"
+       stroke="#a57939"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0249"
+       id="line3" />
+    <line
+       x1="14.513"
+       x2="57.287899"
+       y1="35.958302"
+       y2="35.958302"
+       fill="none"
+       stroke="#a57939"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0249"
+       id="line4" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-9.9576,-9.9579)">
+    <line
+       x1="61"
+       x2="10.9583"
+       y1="61"
+       y2="61"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line5" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="10.958 57.168 10.958 10.958 61 10.958 61 57.168"
+       id="polyline5" />
+  </g>
+</svg>

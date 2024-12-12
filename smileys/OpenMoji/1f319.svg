@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 59.135082 59.331596"
+   version="1.1"
+   sodipodi:docname="1f319.svg"
+   width="59.135082"
+   height="59.331596"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-6.3635189,-6.0201047)">
+    <path
+       fill="#fcea2b"
+       stroke="none"
+       d="m 7.3634,42.4095 c 4.5525,6.1703 11.874,10.1726 20.1303,10.1726 13.8071,0 25,-11.1929 25,-25 0,-8.5226 -4.2646,-16.0492 -10.7763,-20.5621 13.0383,2.8385 22.7812,14.4426 22.7812,28.3317 0,16.0163 -12.9837,29 -29,29 -13.5877,0 -24.9889,-9.3288 -28.1352,-21.9422 z"
+       id="path1" />
+    <path
+       fill="#f1b31c"
+       stroke="none"
+       d="m 45.8373,9.2108 c 8.25,4.25 16.1946,11.8724 16.1946,24.6742 0,15.4494 -12.5242,27.9735 -27.9735,27.9735 -9.2431,0 -19.7524,-4.8353 -24.294,-15.5436 0,0 4.3805,18.6568 25.7189,18.665 C 54.8103,64.9873 63.5252,44.3581 63.5252,44.3581 70.033,12.3815 45.8373,9.2108 45.8373,9.2108 Z"
+       id="path2" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-6.3635189,-6.0201047)" />
+  <g
+     id="skin"
+     transform="translate(-6.3635189,-6.0201047)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-6.3635189,-6.0201047)" />
+  <g
+     id="line"
+     transform="translate(-6.3635189,-6.0201047)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 7.3634,42.4095 c 4.5525,6.1703 11.874,10.1726 20.1303,10.1726 13.8071,0 25,-11.1929 25,-25 0,-8.5226 -4.2646,-16.0492 -10.7763,-20.5621 13.0383,2.8385 22.7812,14.4426 22.7812,28.3317 0,16.0163 -12.9837,29 -29,29 -13.5877,0 -24.9889,-9.3288 -28.1352,-21.9422 z"
+       id="path3" />
+  </g>
+</svg>

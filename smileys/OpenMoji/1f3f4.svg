@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 36.672901 48.959801"
+   version="1.1"
+   sodipodi:docname="1f3f4.svg"
+   width="36.672901"
+   height="48.959801"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="line-supplement"
+     transform="translate(-18.3271,-11.875)">
+    <path
+       fill="#000000"
+       d="m 22.2589,36.4426 c 6.0367,-4.0108 11.3734,-3.0466 14.8238,-1.4425 8.4728,3.939 13.9319,4 15.9281,3.0041 C 53.5658,37.7273 54,37.2728 54,36.6502 c 0,-3.986 0,-11.8228 0,-15.1253 0,-0.8139 -0.6879,-1.4595 -1.4964,-1.4106 -9.644,0.5834 -11.6386,-2.425 -15.4209,-4.1142 -6.1454,-2.7446 -11.8222,-0.3103 -14.7802,1.488 z"
+       id="path1" />
+  </g>
+  <g
+     id="color"
+     transform="translate(-18.3271,-11.875)">
+    <path
+       fill="#3f3f3f"
+       d="m 22.3025,17.4881 c 2.958,-1.7983 8.6348,-4.2326 14.7802,-1.488 3.7823,1.6892 5.7769,4.6976 15.4209,4.1142 C 53.3121,20.0654 54,20.711 54,21.5249 c 0,3.3025 0,11.1393 0,15.1253 0,0.6226 -0.4342,1.0771 -0.9892,1.354 -1.9962,0.9959 -7.4553,0.9349 -15.9281,-3.0041 -3.4504,-1.6041 -8.7871,-2.5683 -14.8238,1.4425"
+       id="path2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-18.3271,-11.875)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 23.0844,17.4881 c 2.885,-1.7983 8.4218,-4.2326 14.4156,-1.488 3.689,1.6892 5.6344,4.6976 15.0405,4.1142 C 53.3291,20.0654 54,20.711 54,21.5249 c 0,3.3025 0,11.1393 0,15.1253 0,0.6226 -0.4235,1.0771 -0.9648,1.354 -1.947,0.9959 -7.2715,0.9349 -15.5352,-3.0041 -3.3653,-1.6041 -8.5703,-2.5683 -14.4582,1.4425"
+       id="path3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 19.3271,12.875 V 59.8348"
+       id="path4" />
+  </g>
+</svg>

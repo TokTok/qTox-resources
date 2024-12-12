@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 63.957462 40"
+   version="1.1"
+   sodipodi:docname="23e9.svg"
+   width="63.957462"
+   height="40"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-4,-16)" />
+  <g
+     id="hair"
+     transform="translate(-4,-16)" />
+  <g
+     id="skin"
+     transform="translate(-4,-16)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-4,-16)" />
+  <g
+     id="line"
+     transform="translate(-4,-16)">
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 31,17 18.7948,9.1111 15.817,7.6675 c 1.8509,0.8972 1.8509,3.5456 0,4.4428 L 49.7948,45.8889 31,55"
+       id="path1" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 5,17 18.8824,9.1111 15.8908,7.6675 c 1.8595,0.8972 1.8595,3.5456 0,4.4428 L 23.8824,45.889 5,55"
+       id="path2" />
+  </g>
+</svg>

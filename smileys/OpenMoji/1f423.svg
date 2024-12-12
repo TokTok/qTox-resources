@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 54.0998 56.214302"
+   version="1.1"
+   sodipodi:docname="1f423.svg"
+   width="54.0998"
+   height="56.214302"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-8.5944,-8.7856998)">
+    <path
+       fill="#fcea2b"
+       stroke="#fcea2b"
+       stroke-miterlimit="10"
+       stroke-width="1.8"
+       d="m 36.1089,44.1242 c 0,0 21.3368,-0.7112 10.6684,-20.6256 0,0 -2.8449,-7.8235 -10.6684,-7.8235 -2.2075,0 -4.0187,0.5096 -5.4973,1.2733 -3.7618,1.9427 -5.3718,5.5292 -5.8823,6.5502 -0.7113,1.4225 -11.3797,19.2032 11.3796,20.6256 z"
+       id="path1" />
+    <path
+       fill="#f1b31c"
+       stroke="none"
+       d="m 35.3719,30.6032 c 0,0 5.9251,-0.2907 0,5.2324 0,0 -5.9251,-5.2324 0,-5.2324 z"
+       id="path2" />
+    <path
+       fill="#ffffff"
+       stroke="none"
+       d="M 61.6942,37.9501 C 61.6942,52.3371 50.0313,64 35.6443,64 21.2573,64 9.5944,52.3371 9.5944,37.9501 l 7.4428,3.7214 6.5125,-4.6518 8.3732,5.5821 6.2024,-5.5821 8.1758,4.7364 7.0199,-5.6667 z"
+       id="path3" />
+    <path
+       fill="#d0cfce"
+       stroke="none"
+       d="M 53.321,36.0894 C 51.3406,47.7279 46.2215,57.4929 35.6443,64 50.0313,64 61.6942,52.337 61.6942,37.9501 Z"
+       id="path4" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-8.5944,-8.7856998)" />
+  <g
+     id="skin"
+     transform="translate(-8.5944,-8.7856998)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-8.5944,-8.7856998)" />
+  <g
+     id="line"
+     transform="translate(-8.5944,-8.7856998)">
+    <circle
+       cx="30.908001"
+       cy="26.3629"
+       r="2.3682001"
+       fill="#000000"
+       stroke="none"
+       id="circle4" />
+    <circle
+       cx="40.380699"
+       cy="26.3629"
+       r="2.3682001"
+       fill="#000000"
+       stroke="none"
+       id="circle5" />
+    <line
+       x1="34.796299"
+       x2="33.433399"
+       y1="14.9035"
+       y2="9.7856998"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line5" />
+    <line
+       x1="36.8284"
+       x2="36.8284"
+       y1="15.7062"
+       y2="12.1539"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="38.999199"
+       x2="40.380699"
+       y1="15.9035"
+       y2="9.7856998"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line7" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 35.3719,30.6032 c 0,0 5.9251,-0.2907 0,5.2324 0,0 -5.9251,-5.2324 0,-5.2324 z"
+       id="path7" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 49.7637,33.4191 c 0.0286,-2.6167 -0.8175,-5.8717 -2.9865,-9.9204 0,0 -2.8449,-7.8235 -10.6684,-7.8235 -2.2075,0 -4.0187,0.5096 -5.4973,1.2733 -3.7618,1.9427 -5.3718,5.5292 -5.8823,6.5502 -0.3479,0.6959 -3.0787,5.3065 -3.1133,10.0017"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 61.6942,37.9501 C 61.6942,52.3371 50.0313,64 35.6443,64 21.2573,64 9.5944,52.3371 9.5944,37.9501 l 7.4428,3.7214 6.5125,-4.6518 8.3732,5.5821 6.2024,-5.5821 8.1758,4.7364 7.0199,-5.6667 z"
+       id="path9" />
+  </g>
+</svg>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 60 60"
+   version="1.1"
+   sodipodi:docname="1f369.svg"
+   width="60"
+   height="60"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-6,-6)">
+    <path
+       fill="#fcea2b"
+       stroke="none"
+       d="M 36,7 C 19.9834,7 7,19.9839 7,36 7,52.0156 19.9834,65 36,65 52.0166,65 65,52.0156 65,36 65,19.9839 52.0166,7 36,7 Z m 0,39 c -5.5225,0 -10,-4.4775 -10,-10 0,-5.5225 4.4775,-10 10,-10 5.5225,0 10,4.4775 10,10 0,5.5225 -4.4775,10 -10,10 z"
+       id="path1" />
+    <path
+       fill="none"
+       stroke="none"
+       d="m 36,46 c 5.5225,0 10,-4.4775 10,-10 0,-5.5225 -4.4775,-10 -10,-10 -5.5225,0 -10,4.4775 -10,10 0,2.7266 1.0947,5.1963 2.8652,7 h 0.4786 -0.4786 c 1.8145,1.8496 4.3389,3 7.1348,3 z"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="none"
+       d="m 46,36 c 0,-5.5225 -4.4775,-10 -10,-10 -5.5225,0 -10,4.4775 -10,10 0,2.7266 1.0947,5.1963 2.8652,7 1.8145,1.8496 4.3389,3 7.1348,3 5.5225,0 10,-4.4775 10,-10 z"
+       id="path3" />
+    <path
+       fill="#f1b31c"
+       stroke="none"
+       d="M 36,7 C 19.9834,7 7,19.9839 7,36 c 0,1.7061 0.1563,3.375 0.4385,5 H 10 c 2.7607,0 5,2.2383 5,5 0,2.7617 2.2393,5 5,5 2.7607,0 5,-2.2383 5,-5 0,-1.6562 1.3428,-3 3,-3 h 0.8652 C 27.0947,41.1963 26,38.7266 26,36 c 0,-5.5225 4.4775,-10 10,-10 5.5225,0 10,4.4775 10,10 0,5.5225 -4.4775,10 -10,10 2.7607,0 5,2.2383 5,5 0,2.7617 2.2393,5 5,5 2.7607,0 5,-2.2383 5,-5 0,-1.6562 1.3428,-3 3,-3 1.6572,0 3,1.3438 3,3 0,1.2217 0.8418,2.3213 1.8945,2.7891 C 62.7168,48.877 65,42.707 65,36 65,19.9839 52.0166,7 36,7 Z"
+       id="path4" />
+    <circle
+       cx="14"
+       cy="31"
+       r="2"
+       fill="#ffffff"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+    <circle
+       cx="20"
+       cy="39"
+       r="2"
+       fill="#ffffff"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle5" />
+    <circle
+       cx="52"
+       cy="40"
+       r="2"
+       fill="#ffffff"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle6" />
+    <circle
+       cx="58"
+       cy="32"
+       r="2"
+       fill="#ffffff"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle7" />
+    <circle
+       cx="50"
+       cy="25"
+       r="2"
+       fill="#ffffff"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle8" />
+    <circle
+       cx="42"
+       cy="14"
+       r="2"
+       fill="#ffffff"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle9" />
+    <circle
+       cx="33"
+       cy="20"
+       r="2"
+       fill="#ffffff"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle10" />
+    <circle
+       cx="21"
+       cy="20"
+       r="2"
+       fill="#ffffff"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle11" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-6,-6)" />
+  <g
+     id="skin"
+     transform="translate(-6,-6)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-6,-6)" />
+  <g
+     id="line"
+     transform="translate(-6,-6)">
+    <circle
+       cx="14"
+       cy="31"
+       r="2"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle12" />
+    <circle
+       cx="20"
+       cy="39"
+       r="2"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle13" />
+    <circle
+       cx="52"
+       cy="40"
+       r="2"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle14" />
+    <circle
+       cx="58"
+       cy="32"
+       r="2"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle15" />
+    <circle
+       cx="50"
+       cy="25"
+       r="2"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle16" />
+    <circle
+       cx="42"
+       cy="14"
+       r="2"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle17" />
+    <circle
+       cx="33"
+       cy="20"
+       r="2"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle18" />
+    <circle
+       cx="21"
+       cy="20"
+       r="2"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle19" />
+    <circle
+       cx="36"
+       cy="36"
+       r="29"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle20" />
+    <circle
+       cx="36"
+       cy="36"
+       r="10"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle21" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 8,41 h 2 c 2.7607,0 5,2.2383 5,5 0,2.7617 2.2393,5 5,5 2.7607,0 5,-2.2383 5,-5 0,-1.6562 1.3428,-3 3,-3 h 0.667"
+       id="path21" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 58.8252,53.7607 C 57.752,53.3047 57,52.2393 57,51 c 0,-1.6562 -1.3428,-3 -3,-3 -1.6572,0 -3,1.3438 -3,3 0,2.7617 -2.2393,5 -5,5 -2.7607,0 -5,-2.2383 -5,-5 0,-2.7617 -2.2393,-5 -5,-5"
+       id="path22" />
+  </g>
+</svg>

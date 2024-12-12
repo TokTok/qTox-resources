@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 64 40"
+   version="1.1"
+   sodipodi:docname="1f1f3-1f1ff.svg"
+   width="64"
+   height="40"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-4,-16)">
+    <rect
+       x="5"
+       y="17"
+       width="62"
+       height="38"
+       fill="#1e50a0"
+       id="rect1" />
+    <g
+       id="g8">
+      <polygon
+         fill="#ffffff"
+         points="6,20.332 32.113,36 36,36 36,33.668 9.887,18 6,18 "
+         id="polygon1" />
+      <polygon
+         fill="#ffffff"
+         points="32.113,18 6,33.668 6,36 9.887,36 36,20.332 36,18 "
+         id="polygon2" />
+      <rect
+         x="6"
+         y="24"
+         width="30"
+         height="6"
+         fill="#ffffff"
+         id="rect2" />
+      <rect
+         x="18"
+         y="18"
+         width="6"
+         height="18"
+         fill="#ffffff"
+         id="rect3" />
+      <rect
+         x="20"
+         y="18"
+         width="2"
+         height="18"
+         fill="#d22f27"
+         id="rect4" />
+      <rect
+         x="6"
+         y="26"
+         width="30"
+         height="2"
+         fill="#d22f27"
+         id="rect5" />
+      <polygon
+         fill="#d22f27"
+         points="26,30 36,36 36,33.668 29.887,30 "
+         id="polygon5" />
+      <polygon
+         fill="#d22f27"
+         points="24,22.868 24,24 26,24 36,18 32.113,18 "
+         id="polygon6" />
+      <polygon
+         fill="#d22f27"
+         points="16,24 6,18 6,20.332 12.113,24 "
+         id="polygon7" />
+      <polygon
+         fill="#d22f27"
+         points="18,31.132 18,30 16,30 6,36 9.887,36 "
+         id="polygon8" />
+    </g>
+    <g
+       id="g12">
+      <polygon
+         fill="none"
+         stroke="#ffffff"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         points="52.224,25.989 51.625,23.928 50.931,26.021 48.839,26.072 50.502,27.314 49.807,29.406 51.53,28.081 53.193,29.323 52.594,27.262 54.317,25.937 "
+         id="polygon9" />
+      <polygon
+         fill="none"
+         stroke="#ffffff"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         points="52.224,43.989 51.625,41.928 50.931,44.021 48.839,44.072 50.502,45.314 49.807,47.406 51.53,46.081 53.193,47.323 52.594,45.262 54.317,43.937 "
+         id="polygon10" />
+      <polygon
+         fill="none"
+         stroke="#ffffff"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         points="60.224,30.989 59.625,28.928 58.931,31.021 56.839,31.072 58.502,32.314 57.807,34.406 59.53,33.081 61.193,34.323 60.594,32.262 62.317,30.937 "
+         id="polygon11" />
+      <polygon
+         fill="none"
+         stroke="#ffffff"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         points="45.224,32.989 44.625,30.928 43.931,33.021 41.839,33.072 43.502,34.314 42.807,36.406 44.53,35.081 46.193,36.323 45.594,34.262 47.317,32.937 "
+         id="polygon12" />
+    </g>
+    <g
+       id="g16">
+      <polygon
+         fill="#d22f27"
+         points="52.168,26.048 51.621,24.167 50.987,26.077 49.078,26.124 50.596,27.257 49.962,29.167 51.534,27.958 53.052,29.091 52.505,27.211 54.078,26.001 "
+         id="polygon13" />
+      <polygon
+         fill="#d22f27"
+         points="52.168,44.048 51.621,42.167 50.987,44.077 49.078,44.124 50.596,45.257 49.962,47.167 51.534,45.958 53.052,47.091 52.505,45.211 54.078,44.001 "
+         id="polygon14" />
+      <polygon
+         fill="#d22f27"
+         points="60.168,31.048 59.621,29.167 58.987,31.077 57.078,31.124 58.596,32.257 57.962,34.167 59.534,32.958 61.052,34.091 60.505,32.211 62.078,31.001 "
+         id="polygon15" />
+      <polygon
+         fill="#d22f27"
+         points="45.168,33.048 44.621,31.167 43.987,33.077 42.078,33.124 43.596,34.257 42.962,36.167 44.534,34.958 46.052,36.091 45.505,34.211 47.078,33.001 "
+         id="polygon16" />
+    </g>
+  </g>
+  <g
+     id="line"
+     transform="translate(-4,-16)">
+    <rect
+       x="5"
+       y="17"
+       width="62"
+       height="38"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect16" />
+  </g>
+</svg>

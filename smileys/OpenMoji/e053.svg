@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 58 58"
+   version="1.1"
+   sodipodi:docname="e053.svg"
+   width="58"
+   height="58"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-7,-7)">
+    <circle
+       cx="36"
+       cy="36"
+       r="28"
+       fill="#92d3f5"
+       id="circle1" />
+    <path
+       fill="#92d3f5"
+       fill-rule="evenodd"
+       d="m 34.3116,27.1581 0.008,0.0467 c 2.0031,-0.3473 4.1346,-0.0214 6.0328,1.0745 4.3047,2.4853 5.7795,7.9896 3.2943,12.2942 L 30.3856,63.5424 C 41.8282,65.8209 53.9433,60.7391 60.1011,50.0735 64.3105,42.7826 64.8683,34.3855 62.3419,27 H 36 c -0.5771,0 -1.1415,0.0543 -1.6884,0.1581 z"
+       clip-rule="evenodd"
+       id="path1" />
+    <path
+       fill="#61b2e4"
+       fill-rule="evenodd"
+       d="M 27,43.5 8.20227,32.6171 C 9.87243,18.7484 21.681,8 36,8 48.3156,8 58.7741,15.9511 62.5222,27 H 36 c -4.9706,0 -9,4.0294 -9,9 0,2.1919 0.7836,4.2008 2.0858,5.7618 z"
+       clip-rule="evenodd"
+       id="path2" />
+    <circle
+       cx="36"
+       cy="36"
+       r="9"
+       fill="#61b2e4"
+       id="circle2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-7,-7)">
+    <circle
+       cx="36"
+       cy="36"
+       r="10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       id="circle3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="m 44.6602,41 -11.5,19.9186"
+       id="path3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 11.0814,33.1603 31,44.6603"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 36,26 H 59"
+       id="path5" />
+    <circle
+       cx="36"
+       cy="36"
+       r="28"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       id="circle5" />
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 25.6168 56.661678"
+   version="1.1"
+   sodipodi:docname="1f4cd.svg"
+   width="25.6168"
+   height="56.661678"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="color"
+     transform="translate(-23.1631,-8.5572004)">
+    <path
+       fill="#ea5a47"
+       stroke="none"
+       d="m 35.9717,9.7197 c -6.4217,0 -11.6459,5.2242 -11.6459,11.6459 0,6.4217 5.2242,11.6459 11.6459,11.6459 6.4216,0 11.6459,-5.2242 11.6459,-11.6459 0,-6.4217 -5.2243,-11.6459 -11.6459,-11.6459 z"
+       id="path1" />
+    <path
+       fill="#d22f27"
+       stroke="none"
+       d="m 39.1689,32.3818 c 1.7258,-0.6456 3.289,-0.8166 4.8143,-2.212 2.1013,-1.9223 3.9035,-5.3398 3.9035,-8.0238 0,-2.4449 -0.578,-5.3031 -2.3421,-7.6335 -1.6276,-2.15 -4.3608,-3.8416 -6.3757,-4.554 0,0 3.5175,5.6512 3.5175,11.3739 0,5.7227 -3.5175,11.0494 -3.5175,11.0494 z"
+       id="path2" />
+    <path
+       fill="#d0cfce"
+       stroke="none"
+       d="m 35.837,63.4888 2.8467,-7.6704 c 0,0 -0.8248,-19.5768 -0.3788,-19.6775 h -5.1693 c 0.4459,0.1007 -0.2244,19.5589 -0.2244,19.5589 z"
+       id="path3" />
+    <path
+       fill="#9b9b9a"
+       stroke="none"
+       d="m 35.9556,62.7376 2.649,-7.0773 c 0,0 0.1045,-19.0577 0.0622,-19.5266 l -2.9331,0.0072 z"
+       id="path4" />
+  </g>
+  <g
+     id="hair"
+     transform="translate(-23.1631,-8.5572004)" />
+  <g
+     id="skin"
+     transform="translate(-23.1631,-8.5572004)" />
+  <g
+     id="skin-shadow"
+     transform="translate(-23.1631,-8.5572004)" />
+  <g
+     id="line"
+     transform="translate(-23.1631,-8.5572004)">
+    <circle
+       cx="35.9715"
+       cy="21.365601"
+       r="11.8084"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+    <polyline
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="38.5196,37.0981 38.5196,55.7135 35.9356,64.2191 32.9209,55.7135 32.9209,37.0981"
+       id="polyline4" />
+  </g>
+</svg>

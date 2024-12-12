@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="emoji"
+   viewBox="0 0 29.999868 39.999905"
+   version="1.1"
+   sodipodi:docname="1f1f3-1f1f5.svg"
+   width="29.999868"
+   height="39.999905"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="line-supplement"
+     transform="translate(-21,-16.000094)">
+    <polygon
+       fill="#000000"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       points="31.864,43.272 33.294,43.206 33.228,44.637 34.5,45.294 33.727,46.5 34.5,47.706 33.228,48.363 33.294,49.794 31.864,49.728 31.206,51 30,50.227 28.794,51 28.137,49.728 26.706,49.794 26.772,48.363 25.5,47.706 26.273,46.5 25.5,45.294 26.772,44.637 26.706,43.206 28.137,43.272 28.794,42 30,42.773 31.206,42 "
+       id="polygon1" />
+    <circle
+       cx="30"
+       cy="30"
+       r="2"
+       fill="#000000"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="circle1" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.5"
+       d="m 34,31 c -0.45,1 -1.7187,2 -4,2 -2.2813,0 -3.55,-1 -4,-2"
+       id="path1" />
+  </g>
+  <g
+     id="color"
+     transform="translate(-21,-16.000094)">
+    <polygon
+       fill="#d22f27"
+       stroke="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="22,17 50,37 33,37 50,55 22,55 "
+       id="polygon2" />
+    <polygon
+       fill="#ffffff"
+       stroke="#ffffff"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       points="31.864,43.272 33.294,43.206 33.228,44.637 34.5,45.294 33.727,46.5 34.5,47.706 33.228,48.363 33.294,49.794 31.864,49.728 31.206,51 30,50.227 28.794,51 28.137,49.728 26.706,49.794 26.772,48.363 25.5,47.706 26.273,46.5 25.5,45.294 26.772,44.637 26.706,43.206 28.137,43.272 28.794,42 30,42.773 31.206,42 "
+       id="polygon3" />
+    <circle
+       cx="30"
+       cy="30"
+       r="2"
+       fill="#ffffff"
+       stroke="#ffffff"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="circle3" />
+    <path
+       fill="none"
+       stroke="#ffffff"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.5"
+       d="m 34,31 c -0.45,1 -1.7187,2 -4,2 -2.2813,0 -3.55,-1 -4,-2"
+       id="path3" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-21,-16.000094)">
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="22,17 50,37 33,37 50,55 22,55 "
+       id="polygon4" />
+  </g>
+  <g
+     id="color-foreground"
+     transform="translate(-21,-16.000094)">
+    <polygon
+       fill="none"
+       stroke="#1e50a0"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="22,17 50,37 33,37 50,55 22,55 "
+       id="polygon5" />
+  </g>
+</svg>
